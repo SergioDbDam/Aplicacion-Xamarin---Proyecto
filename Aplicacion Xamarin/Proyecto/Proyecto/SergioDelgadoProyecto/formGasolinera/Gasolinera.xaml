@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SergioDelgadoProyecto.formGasolinera.Gasolinera">
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout>
+            <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*" />
+                </Grid.RowDefinitions>
+            </Grid>
+             <Label Text="Introduce Importe" />
+                <Entry x:Name="envioImporte" Placeholder="Euros" />
+                <Button Text="Seleccione la Imagen" x:Name="fileButton" Clicked="File"/>
+                <Label Text="Imagen : " x:Name="fileLabel"/>
+                <Button Text="Enviar" Clicked="SendEmailAsync" BackgroundColor="Crimson" TextColor="White" WidthRequest="100" />
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
