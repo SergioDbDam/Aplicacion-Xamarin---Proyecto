@@ -1,0 +1,16 @@
+{
+    "name": "vendor/rest-slim-basico",
+    "description": "Description of project Rest-Slim-Basico.",
+    "authors": [
+        {
+            "name": "santiago",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {
+        "slim/slim": "3.12.0",
+        "monolog/monolog": "1.24.0"
+    },
+    "require-dev": {
+    }
+}
