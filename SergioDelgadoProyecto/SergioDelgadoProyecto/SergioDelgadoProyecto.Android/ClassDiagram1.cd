@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SergioDelgadoProyecto.App" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="SergioDelgadoProyecto.MainPage" Collapsed="true">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="SergioDelgadoProyecto.UserDetailsCredentials" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.75" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="SergioDelgadoProyecto.RestServiceRegistro" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6.25" Y="3.5" Width="1.75" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SergioDelgadoProyecto.TodoItemManagerRegistro" Collapsed="true">
+    <Position X="10.75" Y="3.5" Width="2.25" />
+    <Members>
+      <Method Name="TodoItemManagerRegistro" Hidden="true" />
+    </Members>
+    <TypeIdentifier />
+  </Class>
+  <Class Name="SergioDelgadoProyecto.RestService" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SergioDelgadoProyecto.TodoItemManager" Collapsed="true">
+    <Position X="8.25" Y="3.5" Width="1.75" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="SergioDelgadoProyecto.LoginService" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="SergioDelgadoProyecto.RestClient&lt;T&gt;" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="SergioDelgadoProyecto.paginaPrincipalA" Collapsed="true">
+    <Position X="10" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="SergioDelgadoProyecto.paginaPrincipalDetailA" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="2" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="SergioDelgadoProyecto.paginaPrincipalMasterA" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="2" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="SergioDelgadoProyecto.paginaPrincipalMenuItemA" Collapsed="true">
+    <Position X="10.5" Y="2.5" Width="2.25" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="SergioDelgadoProyecto.paginaPrincipal" Collapsed="true">
+    <Position X="8" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="SergioDelgadoProyecto.paginaPrincipalDetail" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.75" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="SergioDelgadoProyecto.PaginaPrincipalMaster" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.75" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="SergioDelgadoProyecto.paginaPrincipalMenuItem" Collapsed="true">
+    <Position X="8.25" Y="2.5" Width="2" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="SergioDelgadoProyecto.Droid.MainActivity" Collapsed="true">
+    <Position X="8" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MainActivity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SergioDelgadoProyecto.formCrearObjetivo.crearObjetivos" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="SergioDelgadoProyecto.formGasolinera.Gasolinera" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="SergioDelgadoProyecto.formObjetivos.Objetivos" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier />
+  </Class>
+  <Class Name="SergioDelgadoProyecto.formObjetivos.ventanaObjetivo" Collapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="SergioDelgadoProyecto.formObjetivos.ventanaObjetivos">
+    <Position X="6.75" Y="6" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="SergioDelgadoProyecto.formObjetivosCumplidos.objetivoCumplido" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="SergioDelgadoProyecto.formObjetivosCumplidosAjenos.OcAjenos" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="SergioDelgadoProyecto.formObjetivosCumplidosAjenos.TodosObjetivos" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="SergioDelgadoProyecto.ServicioRest.Model_Post" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="SergioDelgadoProyecto.ServicioRest.registros" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Interface Name="SergioDelgadoProyecto.IRestServiceRegistro" Collapsed="true">
+    <Position X="2.25" Y="5.75" Width="1.75" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="SergioDelgadoProyecto.IRestService" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

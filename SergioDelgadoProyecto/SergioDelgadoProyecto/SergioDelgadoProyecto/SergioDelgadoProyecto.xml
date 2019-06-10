@@ -1,0 +1,352 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SergioDelgadoProyecto</name>
+    </assembly>
+    <members>
+        <member name="T:SergioDelgadoProyecto.Properties.Resources">
+            <summary>
+            Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+            </summary>
+        </member>
+        <member name="F:SergioDelgadoProyecto.Properties.Resources.resourceMan">
+            <summary>
+            The resource man
+            </summary>
+        </member>
+        <member name="F:SergioDelgadoProyecto.Properties.Resources.resourceCulture">
+            <summary>
+            The resource culture
+            </summary>
+        </member>
+        <member name="M:SergioDelgadoProyecto.Properties.Resources.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:SergioDelgadoProyecto.Properties.Resources"/> class.
+            </summary>
+        </member>
+        <member name="P:SergioDelgadoProyecto.Properties.Resources.ResourceManager">
+            <summary>
+            Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+            </summary>
+            <value>The resource manager.</value>
+        </member>
+        <member name="P:SergioDelgadoProyecto.Properties.Resources.Culture">
+            <summary>
+            Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+            búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+            </summary>
+            <value>The culture.</value>
+        </member>
+        <member name="T:SergioDelgadoProyecto.ServicioRest.Cumplidos">
+            <summary>
+            Modelo de objetivos Cumplidos
+            </summary>
+        </member>
+        <member name="T:SergioDelgadoProyecto.ServicioRest.Model_Post">
+            <summary>
+            Modelo de Objetivos
+            </summary>
+        </member>
+        <member name="T:SergioDelgadoProyecto.ServicioRest.registros">
+            <summary>
+            Modelo de registros
+            </summary>
+        </member>
+        <member name="T:SergioDelgadoProyecto.UserDetailsCredentials">
+            <summary>
+            Modelo de Datos de Usuarios
+            </summary>
+        </member>
+        <member name="M:SergioDelgadoProyecto.IRestServiceRegistro.RefreshDataAsync">
+            <summary>
+            Servicio Rest para Inicio de sesion 
+            </summary>
+            <returns>Mostrar datos</returns>
+        </member>
+        <member name="F:SergioDelgadoProyecto.RestServiceRegistro._client">
+            <summary>
+            Servicio Rest
+            </summary>
+        </member>
+        <member name="M:SergioDelgadoProyecto.RestServiceRegistro.RefreshDataAsync">
+            <summary>
+            Mostrar Datos
+            </summary>
+            <returns>Muestra una Lista con los datos de los Registros</returns>
+        </member>
+        <member name="M:SergioDelgadoProyecto.RestServiceRegistro.SaveTodoItemAsync(SergioDelgadoProyecto.ServicioRest.registros)">
+            <summary>
+            Guardar Datos
+            </summary>
+            <param name="item">Objeto de Registros</param>
+            <returns>Guarda un Registro</returns>
+        </member>
+        <member name="M:SergioDelgadoProyecto.RestServiceRegistro.DeleteTodoItemAsync(System.Int32)">
+            <summary>
+            Borra Registros
+            </summary>
+            <param name="id">id de Registro</param>
+            <returns>Borra un registro por id</returns>
+        </member>
+        <member name="M:SergioDelgadoProyecto.TodoItemManagerRegistro.GetTasksAsync">
+            <summary>
+            Muestra Registros
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:SergioDelgadoProyecto.TodoItemManagerRegistro.SaveTaskAsync(SergioDelgadoProyecto.ServicioRest.registros)">
+            <summary>
+            Guarda Registro
+            </summary>
+            <param name="item">Objeto de registro</param>
+            <returns></returns>
+        </member>
+        <member name="M:SergioDelgadoProyecto.TodoItemManagerRegistro.DeleteTaskAsync(SergioDelgadoProyecto.ServicioRest.registros)">
+            <summary>
+            Borra Registro
+            </summary>
+            <param name="item">ID de registro</param>
+            <returns></returns>
+        </member>
+        <member name="M:SergioDelgadoProyecto.IRestService.RefreshDataAsync">
+             <summary>
+            Actualiza los datos de forma asíncrona.
+             </summary>
+             <returns>Task&lt;List&lt;Model_Post&gt;&gt;.</returns>
+        </member>
+        <member name="M:SergioDelgadoProyecto.IRestService.SaveTodoItemAsync(SergioDelgadoProyecto.ServicioRest.Model_Post)">
+            <summary>
+            Guarda los datos  de forma asíncrona.
+            </summary>
+            <param name="item">el objeto</param>
+            <returns>Tarea.</returns>
+        </member>
+        <member name="M:SergioDelgadoProyecto.IRestService.DeleteTodoItemAsync(System.Int32)">
+             <summary>
+            Borra los datos de forma asíncrona
+             </summary>
+             <param name="id">El identificador</param>
+             <returns>Tarea</returns>
+        </member>
+        <member name="F:SergioDelgadoProyecto.RestService._client">
+            <summary>
+            Servicio Rest
+            </summary>
+        </member>
+        <member name="M:SergioDelgadoProyecto.RestService.RefreshDataAsync">
+            <summary>
+            Mostrar Datos
+            </summary>
+            <returns>Muestra una Lista con los datos de los objetivos</returns>
+        </member>
+        <member name="M:SergioDelgadoProyecto.RestService.SaveTodoItemAsync(SergioDelgadoProyecto.ServicioRest.Model_Post)">
+             <summary>
+             Guarda el objetivo de manera asíncrona
+            
+             </summary>
+             <param name="item">el objeto</param>
+             <returns>Tarea.</returns>
+        </member>
+        <member name="M:SergioDelgadoProyecto.RestService.DeleteTodoItemAsync(System.Int32)">
+             <summary>
+            Borra el objetivo de forma asíncrona
+             </summary>
+             <param name="id">Identificador</param>
+             <returns>Tarea.</returns>
+        </member>
+        <member name="M:SergioDelgadoProyecto.TodoItemManager.GetTasksAsync">
+            <summary>
+            Muestra Objetivos
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:SergioDelgadoProyecto.TodoItemManager.SaveTaskAsync(SergioDelgadoProyecto.ServicioRest.Model_Post)">
+            <summary>
+            Guarda Objetivo
+            </summary>
+            <param name="item"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SergioDelgadoProyecto.TodoItemManager.DeleteTaskAsync(SergioDelgadoProyecto.ServicioRest.Model_Post)">
+            <summary>
+            Borra Objetivo
+            </summary>
+            <param name="item"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SergioDelgadoProyecto.LoginService.CheckLoginIfExists(System.String,System.String)">
+            <summary>
+            Comprobacion del inicio de sesion
+            </summary>
+            <param name="username">Usuario</param>
+            <param name="password">contraseña</param>
+            <returns></returns>
+        </member>
+        <member name="M:SergioDelgadoProyecto.RestClient`1.checkLogin(System.String,System.String)">
+            <summary>
+            Comprobacion del inicio de sesión
+            </summary>
+            <param name="username">usuario</param>
+            <param name="password">contraseña</param>
+            <returns></returns>
+        </member>
+        <member name="F:SergioDelgadoProyecto.formCrearObjetivo.crearObjetivos.urL">
+            <summary>
+            Creaciond de objetivos
+            </summary>
+            192.168.1.21
+        </member>
+        <member name="M:SergioDelgadoProyecto.formCrearObjetivo.crearObjetivos.OnAppearing">
+            <summary>
+            Mostrar objetivos
+            </summary>
+        </member>
+        <member name="M:SergioDelgadoProyecto.formCrearObjetivo.crearObjetivos.OnItemSelected(System.Object,Xamarin.Forms.SelectedItemChangedEventArgs)">
+            <summary>
+            Seleccionar Objetivo
+            </summary>
+            <param name="sender">Objeto seleccionado</param>
+            <param name="e">Envio de objetivo</param>
+        </member>
+        <member name="M:SergioDelgadoProyecto.formCrearObjetivo.crearObjetivos.OnSaveButtonClicked(System.Object,System.EventArgs)">
+            <summary>
+            Guardar objetivo
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="F:SergioDelgadoProyecto.formObjetivosCumplidosAjenos.OcAjenos.urL">
+            <summary>
+            Mostrar objetivos ajenos
+            </summary>
+        </member>
+        <member name="M:SergioDelgadoProyecto.formObjetivosCumplidosAjenos.OcAjenos.OnAppearing">
+            <summary>
+            Metodo para mostrar una lista con todos los Ids y nombres de los usuarios
+            </summary>
+        </member>
+        <member name="M:SergioDelgadoProyecto.formObjetivosCumplidosAjenos.OcAjenos.OnItemSelected(System.Object,Xamarin.Forms.SelectedItemChangedEventArgs)">
+            <summary>
+            Metodo para seleccionar un usuario
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="F:SergioDelgadoProyecto.formObjetivosCumplidosAjenos.TodosObjetivos.urL">
+            <summary>
+            Mostrar objetivos Ajenos ordenados por usuario
+            </summary>
+        </member>
+        <member name="M:SergioDelgadoProyecto.formObjetivosCumplidosAjenos.TodosObjetivos.OnAppearing">
+            <summary>
+            Mostrar objetivos de usuario
+            </summary>
+        </member>
+        <member name="F:SergioDelgadoProyecto.formObjetivosCumplidos.objetivoCumplido.urL">
+            <summary>
+            Ventana de objetivos cumplidos
+            </summary>
+        </member>
+        <member name="M:SergioDelgadoProyecto.formObjetivosCumplidos.objetivoCumplido.OnAppearing">
+            <summary>
+            Metodo para Mostrar objetivos Cumplidos
+            </summary>
+        </member>
+        <member name="M:SergioDelgadoProyecto.formObjetivosCumplidos.objetivoCumplido.OnItemSelected(System.Object,Xamarin.Forms.SelectedItemChangedEventArgs)">
+            <summary>
+            Metodo para seleccionar objetivos
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="F:SergioDelgadoProyecto.formObjetivos.Objetivos.urL">
+            <summary>
+            Muestra de objetivos
+            </summary>
+        </member>
+        <member name="M:SergioDelgadoProyecto.formObjetivos.Objetivos.OnAppearing">
+            <summary>
+            Metodo para mostrar los objetivos
+            </summary>
+        </member>
+        <member name="M:SergioDelgadoProyecto.formObjetivos.Objetivos.OnItemSelected(System.Object,Xamarin.Forms.SelectedItemChangedEventArgs)">
+            <summary>
+            Metodo para seleccionar los objetivos
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:SergioDelgadoProyecto.formObjetivos.ventanaObjetivo.#ctor">
+            <summary>
+            Ventana secundaria de objetivos
+            </summary>
+        </member>
+        <member name="M:SergioDelgadoProyecto.formObjetivos.ventanaObjetivo.OnSaveButtonClicked(System.Object,System.EventArgs)">
+            <summary>
+            Metodo para guardar los objetivos y pasarlos a cumplidos
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:SergioDelgadoProyecto.paginaPrincipalA.#ctor">
+            <summary>
+            Detalles de la pagina Principal de Administradores
+            </summary>
+        </member>
+        <member name="M:SergioDelgadoProyecto.paginaPrincipalA.ListView_ItemSelected(System.Object,Xamarin.Forms.SelectedItemChangedEventArgs)">
+            <summary>
+            Maneja el evento ItemSelected del control ListView.
+            </summary>
+            <param name="sender">La fuente del evento.</param>
+            <param name="e">The <see cref="T:Xamarin.Forms.SelectedItemChangedEventArgs"/> instancia que contiene los datos del evento</param>
+        </member>
+        <member name="T:SergioDelgadoProyecto.paginaPrincipalDetailA">
+            <summary>
+            Clase paginaPrincipalDetailA.
+            Implementa el<see cref="T:Xamarin.Forms.ContentPage" />
+            </summary>
+            <seealso cref="T:Xamarin.Forms.ContentPage" />
+        </member>
+        <member name="M:SergioDelgadoProyecto.paginaPrincipalMasterA.#ctor">
+            <summary>
+            Lista del menu
+            </summary>
+        </member>
+        <member name="T:SergioDelgadoProyecto.paginaPrincipalMenuItemA">
+            <summary>
+            Modelo de los objetos del menú.
+            </summary>
+        </member>
+        <member name="M:SergioDelgadoProyecto.paginaPrincipal.#ctor">
+            <summary>
+            Detalle de la pagina principal
+            </summary>
+        </member>
+        <member name="M:SergioDelgadoProyecto.paginaPrincipalDetail.#ctor">
+            <summary>
+            Detalles de la pagina principal
+            </summary>
+        </member>
+        <member name="M:SergioDelgadoProyecto.PaginaPrincipalMaster.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:SergioDelgadoProyecto.PaginaPrincipalMaster"/> class.
+            </summary>
+        </member>
+        <member name="T:SergioDelgadoProyecto.PaginaPrincipalMaster.paginaPrincipalMasterViewModel">
+            <summary>
+            clase paginaPrincipalMasterViewModel
+            Implements the <see cref="T:System.ComponentModel.INotifyPropertyChanged" /></summary>
+            <seealso cref="T:System.ComponentModel.INotifyPropertyChanged" />
+        </member>
+        <member name="M:SergioDelgadoProyecto.PaginaPrincipalMaster.paginaPrincipalMasterViewModel.#ctor">
+            <summary>
+            Creación de Menú
+            </summary>
+        </member>
+        <member name="M:SergioDelgadoProyecto.paginaPrincipalMenuItem.#ctor">
+            <summary>
+            Modelo de los Objetos del Menú.
+            </summary>
+        </member>
+    </members>
+</doc>

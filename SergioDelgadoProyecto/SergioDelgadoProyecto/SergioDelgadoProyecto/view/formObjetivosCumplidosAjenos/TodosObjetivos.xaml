@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SergioDelgadoProyecto.formObjetivosCumplidosAjenos.TodosObjetivos">
+    <ContentPage.Content>
+        <StackLayout>
+            
+        <Label Text="Objetivos Cumplidos" />
+            <ListView  x:Name="MyListViewCumplido" >
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout BackgroundColor="#eee"
+                        Orientation="Vertical">
+                                <StackLayout Orientation="Horizontal">
+                                    <Label x:Name="ide" Text="{Binding Path=registro_id}"/>
+
+                                    <Label Text="{Binding objetivos}"/>
+                                </StackLayout>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+            <Label Text="Objetivos No Cumplidos" />
+            <ListView  x:Name="MyListViewNoCumplido" >
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout BackgroundColor="#eee"
+                        Orientation="Vertical">
+                                <StackLayout Orientation="Horizontal">
+
+                                    <Label x:Name="id" Text="{Binding Path=registro_id}"
+                                TextColor="#f35e20" />
+                                    <Label Text="{Binding objetivos}"
+                                TextColor="#503026" />
+                                </StackLayout>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

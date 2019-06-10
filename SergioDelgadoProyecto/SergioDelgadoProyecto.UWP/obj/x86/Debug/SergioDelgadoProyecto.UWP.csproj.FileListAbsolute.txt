@@ -1,0 +1,5 @@
+C:\Users\Sergio\Desktop\SergioDelgadoProyecto\SergioDelgadoProyecto.UWP\obj\x86\Debug\SergioDelgadoProyecto.UWP.csprojAssemblyReference.cache
+C:\Users\Sergio\Desktop\SergioDelgadoProyecto\SergioDelgadoProyecto.UWP\obj\x86\Debug\App.xaml
+C:\Users\Sergio\Desktop\SergioDelgadoProyecto\SergioDelgadoProyecto.UWP\obj\x86\Debug\MainPage.xaml
+C:\Users\Sergio\Desktop\SergioDelgadoProyecto\SergioDelgadoProyecto.UWP\obj\x86\Debug\App.xbf
+C:\Users\Sergio\Desktop\SergioDelgadoProyecto\SergioDelgadoProyecto.UWP\obj\x86\Debug\MainPage.xbf
