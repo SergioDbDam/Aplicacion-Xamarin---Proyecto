@@ -17,6 +17,7 @@ Se creará un usuario  para  el profesor que sera administrador y otro usuaric c
 Las contraseñas serán igual que el nombre.
 
 Porfavor para un correcto uso de la aplicación no borrar nunca los objetivos :
+
 id: 21 y 22
 nombre : no hay datos disponibles
 
