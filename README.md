@@ -9,6 +9,7 @@ Manuales: Se encontrarán los manuales de usuario y administradores.
 
 Codigo Fuente : Carpeta que contendrá el codigo fuente
 
+Instaladores : Carpeta donde se encuentran los instaladores.
 Normas a tener en cuenta para el uso de la aplicacion
 
 Se creará un usuario  para  el profesor que sera administrador y otro usuaric con el nombre de alumno como si fuese comercial.
