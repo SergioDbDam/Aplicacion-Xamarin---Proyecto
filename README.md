@@ -11,7 +11,7 @@ Codigo Fuente : Carpeta que contendrá el codigo fuente
 
 Instaladores : Carpeta donde se encuentran los instaladores.
 Normas a tener en cuenta para el uso de la aplicacion
-
+<br>
 Se creará un usuario  para  el profesor que sera administrador y otro usuaric con el nombre de alumno como si fuese comercial.
 Las contraseñas serán igual que el nombre.
 
