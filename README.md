@@ -3,7 +3,7 @@ Proyecto de  fin de curso  DAM - Sergio Delgado Barrios.
 
 Carpetas  y contenidos
 
-Documentaci: Se encontará el pdf de la documentaciñ
+Documentacion: Carpeta donde se encuentra la documentacion.
 
 Manuales: Se encontrarán los manuales de usuario y administradores.
 
