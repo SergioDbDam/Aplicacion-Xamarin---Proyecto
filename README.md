@@ -16,7 +16,7 @@ Normas a tener en cuenta para el uso de la aplicacion
 Se creará un usuario  para  el profesor que sera administrador y otro usuaric con el nombre de alumno como si fuese comercial.
 Las contraseñas serán igual que el nombre.
 
-Porfavor para un correcto uso de la aplicación no borrar nunca los objetivos :
+Porfavor para un correcto uso de la aplicación no borrar,actualizar o completar los registros con :
 
 id: 21 y 22
 
