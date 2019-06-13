@@ -4,7 +4,9 @@ Proyecto de  fin de curso  DAM - Sergio Delgado Barrios.
 Carpetas  y contenidos
 
 Documentaci: Se encontará el pdf de la documentaciñ
+
 Manuales: Se encontrarán los manuales de usuario y administradores.
+
 Codigo Fuente : Carpeta que contendrá el codigo fuente
 
 Normas a tener en cuenta para el uso de la aplicacion
