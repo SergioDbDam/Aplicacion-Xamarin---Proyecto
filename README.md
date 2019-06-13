@@ -1,0 +1,14 @@
+# proyectoDam
+Proyecto de  fin de curso  DAM - Sergio Delgado Barrios.
+
+Carpetas  y contenidos
+
+Documentaci: Se encontará el pdf de la documentaciñ
+Manuales: Se encontrarán los manuales de usuario y administradores.
+Codigo Fuente : Carpeta que contendrá el codigo fuente
+
+Normas a tener en cuenta para el uso de la aplicacion
+
+Se creará un usuario  para  el profesor que sera administrador y otro usuaric con el nombre de alumno como si fuese comercial.
+Las contraseñas serán igual que el nombre.
+
