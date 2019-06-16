@@ -1,0 +1,263 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="d64bf3ba-ae07-4244-8c27-4901536eb104" Title="SergioDelgadoProyecto" Url="html/fe781620-6c01-ff03-c43b-3cc1cec2155c.htm">
+    <HelpTOCNode Id="03d8a6dd-52d4-4fa2-a3fd-ec7f671bd104" Title="App Class" Url="html/bb779a20-3293-d5d1-7f9c-78209798363b.htm">
+      <HelpTOCNode Title="App Constructor " Url="html/b680635b-a373-7c1f-5373-e8d4c9e0c7ad.htm" />
+      <HelpTOCNode Id="78181204-9791-418f-a68d-71d51f87b9d1" Title="App Properties" Url="html/98943ee4-a0d9-b93b-d7d7-e58566bcc9eb.htm">
+        <HelpTOCNode Title="TodoManager Property " Url="html/1580bede-680d-ea92-4c56-df8344ebabc6.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="e1dcd745-06cf-47e1-825e-e0fbbb483d7a" Title="App Methods" Url="html/d6c1375b-0f44-d45a-507b-54992b6865ac.htm">
+        <HelpTOCNode Title="OnResume Method " Url="html/927f5516-1d34-5572-6f8d-f2c30192fda6.htm" />
+        <HelpTOCNode Title="OnSleep Method " Url="html/c732a52b-9708-12f0-7ca3-0f79d935d88f.htm" />
+        <HelpTOCNode Title="OnStart Method " Url="html/9938bdd8-8579-8835-591e-bf982ef672e0.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="c366ed34-8058-4660-a362-5ccda0dbcee2" Title="IRestService Interface" Url="html/40314be2-3270-300e-d4bf-56f989deaa7f.htm">
+      <HelpTOCNode Id="21d641ad-b691-47e0-99d9-869ae4ea40e4" Title="IRestService Methods" Url="html/38bcb44f-b59e-e600-08b9-705f45ea4396.htm">
+        <HelpTOCNode Title="DeleteTodoItemAsync Method " Url="html/7ebf2dba-d3c4-e65e-0c7a-8ae7a70fc226.htm" />
+        <HelpTOCNode Title="RefreshDataAsync Method " Url="html/6e83cdbb-f419-5f7a-ebda-12cef1dc820a.htm" />
+        <HelpTOCNode Title="SaveTodoItemAsync Method " Url="html/df02de62-fc20-b812-62e7-6acc2120fd8d.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="4c62022a-35b6-439f-bc66-aad22aae04c8" Title="IRestServiceRegistro Interface" Url="html/59cb0fc5-d47a-1bc1-a6fd-22adde7239c1.htm">
+      <HelpTOCNode Id="cefe86fc-8789-4318-9420-2f4eceac49cd" Title="IRestServiceRegistro Methods" Url="html/25761d60-f055-b09c-086b-028fd0edd2d4.htm">
+        <HelpTOCNode Title="DeleteTodoItemAsync Method " Url="html/9fa7d9e5-11f1-a399-16d8-989e681d8e67.htm" />
+        <HelpTOCNode Title="RefreshDataAsync Method " Url="html/bec29569-309b-adea-d705-a33bd4f3de90.htm" />
+        <HelpTOCNode Title="SaveTodoItemAsync Method " Url="html/1cf5389a-f6f1-ab2c-6f54-46cb29160c7a.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="b06a1c66-94e2-4456-96a1-e735327e2e52" Title="LoginService Class" Url="html/3fea2ed4-903c-5778-0b53-cc16f03b89a6.htm">
+      <HelpTOCNode Title="LoginService Constructor " Url="html/8038567c-c89d-33e2-95a6-e0231fb5a228.htm" />
+      <HelpTOCNode Id="d072f966-6e59-484b-b223-f53f376a60fe" Title="LoginService Methods" Url="html/3718da9c-77f9-e9a4-0b73-7a88084546f2.htm">
+        <HelpTOCNode Title="CheckLoginIfExists Method " Url="html/e6dc6112-69da-331f-556e-2aa913c1e607.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="9160ec9f-d2a7-4466-87e5-47ebbedfbad4" Title="MainPage Class" Url="html/c8ca6d75-3f72-d0f8-37da-728fa82cc84f.htm">
+      <HelpTOCNode Title="MainPage Constructor " Url="html/ca69b855-6af8-3d08-47ca-6a7cc19e2952.htm" />
+      <HelpTOCNode Id="e18145f2-f162-469c-a36c-8d234ae03f06" Title="MainPage Methods" Url="html/4aaf9607-e9a8-0cea-0e66-2be0ced22ebc.htm">
+        <HelpTOCNode Title="OnAppearing Method " Url="html/d8a3fec2-ff66-46af-dd77-f5616c12f825.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="fcaf48f9-1f02-47c2-b4da-3fecae390518" Title="MainPage.ImageResourceExtension Class" Url="html/b112603a-df52-08be-4311-f3f3d55ef081.htm">
+      <HelpTOCNode Title="MainPage.ImageResourceExtension Constructor " Url="html/1c674633-b0fb-2add-8a32-b73b1d048984.htm" />
+      <HelpTOCNode Id="6c17ef2a-0757-4af9-90c3-bf025c371ea3" Title="ImageResourceExtension Properties" Url="html/6a5d5ffe-7457-bcec-f560-a333d213ea4e.htm">
+        <HelpTOCNode Title="Source Property " Url="html/b0904b66-9c4f-6fb0-8cc6-d52ca7bf8086.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="2906175a-df23-4304-87a1-0f1ecc6625f9" Title="ImageResourceExtension Methods" Url="html/75a08d9d-42a9-bdf7-5ee6-f956f2ff8d08.htm">
+        <HelpTOCNode Title="ProvideValue Method " Url="html/bc29a2e5-8549-85e8-e1ff-ebaefdde1994.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="dba4bb75-f1ed-49d2-9ffe-b8e6218c32f5" Title="paginaPrincipal Class" Url="html/3c10d4fd-faaf-fc39-34ee-da10cc7f70cd.htm">
+      <HelpTOCNode Title="paginaPrincipal Constructor " Url="html/6407fe62-dd43-a10b-340a-ae23ea43a4fc.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="03675d83-1538-4872-a22a-b68a8635a457" Title="paginaPrincipalA Class" Url="html/cfb98585-b9cb-d3a6-02d4-f49203481a70.htm">
+      <HelpTOCNode Title="paginaPrincipalA Constructor " Url="html/a2ab84db-8da9-46fa-3328-8b13dc4841bd.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="ad0b9c51-346f-416f-91a5-5c8f4412b76d" Title="paginaPrincipalDetail Class" Url="html/6e378649-e15f-ad0b-e58e-a05142ec2e8e.htm">
+      <HelpTOCNode Title="paginaPrincipalDetail Constructor " Url="html/f7aa5c57-6bef-9e7c-ccb8-0be06b3e9133.htm" />
+      <HelpTOCNode Id="2c8f3f44-d964-4092-86f4-3da6d483baa0" Title="paginaPrincipalDetail Methods" Url="html/8afe11c8-a14d-cfc1-9996-b2bd97bbd094.htm">
+        <HelpTOCNode Title="OnAppearing Method " Url="html/54c16e88-71d7-ff42-3af9-02ed35b64c24.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="2bd4a67a-62a5-4b89-ba6c-afd58b953a13" Title="paginaPrincipalDetail Fields" Url="html/d487b18c-efda-b07c-1e0d-644b49f6e66d.htm">
+        <HelpTOCNode Title="urL Field" Url="html/e85bbc2a-99d8-0070-ba95-22c988e42d3a.htm" />
+        <HelpTOCNode Title="urL1 Field" Url="html/af32f527-ede6-cb31-6a4f-46e8651acd00.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="0319a048-d65f-4eec-b4eb-d9f16b36317b" Title="paginaPrincipalDetailA Class" Url="html/c1409a08-493d-82cf-c5b4-02904df31885.htm">
+      <HelpTOCNode Title="paginaPrincipalDetailA Constructor " Url="html/1579d8fa-8ca8-67f1-3c06-5c7074f66837.htm" />
+      <HelpTOCNode Id="362f9c89-c69d-45e2-bca2-c15988c2b04f" Title="paginaPrincipalDetailA Methods" Url="html/40754e9a-2619-4485-9207-870be46b6ace.htm">
+        <HelpTOCNode Title="OnAppearing Method " Url="html/7ea5477e-ac2b-cbe8-1546-3b6d9ecdc92e.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="b61f2eb6-7f4f-4180-a95d-de4d261f8504" Title="paginaPrincipalDetailA Fields" Url="html/63cc4caa-7900-fc12-66ed-dac5704a9feb.htm">
+        <HelpTOCNode Title="urL Field" Url="html/957e559e-d6e4-4bc3-bc00-73e8acf8b1ec.htm" />
+        <HelpTOCNode Title="urL1 Field" Url="html/14fbbf96-4cb0-e937-d8f8-052975b800ec.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="34b5eb57-a21d-431e-8a22-1a07ff30fdac" Title="PaginaPrincipalMaster Class" Url="html/30458735-48d8-814b-0bcb-19f13b606dfb.htm">
+      <HelpTOCNode Title="PaginaPrincipalMaster Constructor " Url="html/a5906e3d-c8aa-83f5-7ad7-fe4b19a85e3b.htm" />
+      <HelpTOCNode Id="55ae6501-0047-4911-aa02-2aba2a4d6d23" Title="PaginaPrincipalMaster Fields" Url="html/fbc0a1d8-1ee2-2540-336f-7d8bb045200a.htm">
+        <HelpTOCNode Title="ListView Field" Url="html/1a73280e-304c-f3f3-0adb-cd21f2e794fe.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="c1275bcc-0e5c-4bdc-b70e-22e3a681a2b8" Title="paginaPrincipalMasterA Class" Url="html/7a050510-de1e-33dc-b3ab-0c659d7c82b3.htm">
+      <HelpTOCNode Title="paginaPrincipalMasterA Constructor " Url="html/245c1819-f2a2-3453-a663-c762ab840794.htm" />
+      <HelpTOCNode Id="67b419e5-61c3-4438-8833-86c25b52d52f" Title="paginaPrincipalMasterA Fields" Url="html/47a6eb5f-d2bf-937e-1d10-a6f53d072b60.htm">
+        <HelpTOCNode Title="ListView Field" Url="html/c3595adf-79ad-1b33-d58a-c6a0a19b582c.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="c59c9e35-3446-4575-b969-fab8ca081d32" Title="paginaPrincipalMenuItem Class" Url="html/a2a3fbd0-d2a3-80ae-c47b-cd10c1acdb94.htm">
+      <HelpTOCNode Title="paginaPrincipalMenuItem Constructor " Url="html/5aa3926a-df27-db77-eae5-ffccf1703517.htm" />
+      <HelpTOCNode Id="ae89cfc6-6cab-4f1f-8b5f-36fb774bf21e" Title="paginaPrincipalMenuItem Properties" Url="html/de716cc8-3146-a812-38c6-58a5301c0187.htm">
+        <HelpTOCNode Title="Id Property " Url="html/bec31184-9248-776c-602c-c9d94acff10c.htm" />
+        <HelpTOCNode Title="TargetType Property " Url="html/733b951d-d96d-d972-fc91-d318e840c443.htm" />
+        <HelpTOCNode Title="Title Property " Url="html/2d78e653-27ec-5187-2b7b-431371ae6608.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="paginaPrincipalMenuItem Methods" Url="html/74cd2fbf-b69d-960c-f52e-efea17209dc9.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="62c3458b-04de-4253-899f-b1c37f4b75cb" Title="paginaPrincipalMenuItemA Class" Url="html/5b0ee9ce-b2e5-3d8b-af46-da159fed3e3e.htm">
+      <HelpTOCNode Title="paginaPrincipalMenuItemA Constructor " Url="html/6f0881de-fe1b-f46f-8c0d-43b4b822cde8.htm" />
+      <HelpTOCNode Id="a60ab93e-b1e2-4537-8d1d-46632e81bf17" Title="paginaPrincipalMenuItemA Properties" Url="html/5e501276-e185-56d0-7463-4b6ea25c6b0c.htm">
+        <HelpTOCNode Title="Id Property " Url="html/4e17b7e7-7786-4b12-fd59-9c2e7d27f9e4.htm" />
+        <HelpTOCNode Title="TargetType Property " Url="html/a12f5ff6-efb6-15d6-6196-6293aa451c52.htm" />
+        <HelpTOCNode Title="Title Property " Url="html/73f6cfe5-784b-34a3-4e5f-ae6d9addb65f.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="paginaPrincipalMenuItemA Methods" Url="html/0d76e1af-1dc3-88b1-5b85-83ab399e7c25.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="3f16c4ec-9e9e-4e51-af40-d64781e5457c" Title="RestClient(T) Class" Url="html/18d86175-9711-222f-8a47-501b4eb68b7b.htm">
+      <HelpTOCNode Title="RestClient(T) Constructor " Url="html/4b3bf3d3-35f4-fa16-f04f-2cfc50f94d18.htm" />
+      <HelpTOCNode Id="597d3a83-4a03-4263-bc75-d21aecfbc6a5" Title="RestClient(T) Methods" Url="html/7e9e3e03-2774-123a-05a1-467c77b2a86e.htm">
+        <HelpTOCNode Title="checkLogin Method " Url="html/5a4cecd6-7b04-869b-c98c-3bf24f8332f4.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="a381e6cb-b0bb-4f9a-9a66-da57fd4f004a" Title="RestClient(T) Fields" Url="html/0d8598b7-6da2-421b-6536-34bf2a1ed22d.htm">
+        <HelpTOCNode Title="idMiembro Field" Url="html/773af177-d4b4-57e6-f631-ad96fecf3197.htm" />
+        <HelpTOCNode Title="nombre Field" Url="html/b4d67fcd-1d28-28b0-d8b0-63bef95c74e3.htm" />
+        <HelpTOCNode Title="resultado Field" Url="html/c344685d-79eb-e873-2312-ebc627349eea.htm" />
+        <HelpTOCNode Title="rol Field" Url="html/b7d36b90-b49d-89e5-a12b-9f25e8daff45.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="35686310-7215-423b-bc48-0da8f2e67f3d" Title="RestService Class" Url="html/94bf5c4c-9847-cd6b-d3b5-72625ad20102.htm">
+      <HelpTOCNode Title="RestService Constructor " Url="html/977306b0-e410-3dff-ee9a-10b1df4eb3b6.htm" />
+      <HelpTOCNode Id="e599433a-1f59-4b27-9a30-83df328f9c56" Title="RestService Properties" Url="html/0b44df28-5345-84e1-3e85-a13af9fdec6f.htm">
+        <HelpTOCNode Title="Items Property " Url="html/376fd75f-0b4e-3b62-a67c-d16bedd50251.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="3cfba354-d2a6-416f-b644-391bfe89c6fb" Title="RestService Methods" Url="html/eecd9349-6f1a-097a-ffba-1e60bab9a9db.htm">
+        <HelpTOCNode Title="DeleteTodoItemAsync Method " Url="html/0eece06a-8184-2a2f-e1fa-5d9b17085103.htm" />
+        <HelpTOCNode Title="RefreshDataAsync Method " Url="html/6ea78ef4-1b84-a8a3-1fed-018ea926554a.htm" />
+        <HelpTOCNode Title="SaveTodoItemAsync Method " Url="html/39827b4c-09b2-b20b-b1c9-a96507af1eee.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="77b024b1-8886-41d8-98e8-fb94eccc03aa" Title="RestServiceRegistro Class" Url="html/668e5483-cab7-ac13-9ee2-e17b63c666b1.htm">
+      <HelpTOCNode Title="RestServiceRegistro Constructor " Url="html/341ad53c-0520-851f-a567-cb27c768aafc.htm" />
+      <HelpTOCNode Id="c8ee3206-1f7b-4b77-a06b-b1c4fbf13237" Title="RestServiceRegistro Properties" Url="html/5d8f1044-ade9-256d-ef58-7453ea5108fd.htm">
+        <HelpTOCNode Title="Items Property " Url="html/b4a9807a-4ffa-eb93-75b6-24f3b3859493.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="c72b4f84-a170-4663-8031-6295edb2cca9" Title="RestServiceRegistro Methods" Url="html/fb0d1676-64fd-c6e5-e866-870ffb28125e.htm">
+        <HelpTOCNode Title="DeleteTodoItemAsync Method " Url="html/868cabee-1170-c6c0-27a1-d8cc6902cab3.htm" />
+        <HelpTOCNode Title="RefreshDataAsync Method " Url="html/61637801-bd68-11bc-0244-383915627c5a.htm" />
+        <HelpTOCNode Title="SaveTodoItemAsync Method " Url="html/d7712194-bffc-2b8a-1165-06f346e9bd61.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="4021af3b-8186-4d66-9d92-23a7cc675adf" Title="TodoItemManager Class" Url="html/f06e48f4-6600-7a62-95e4-68dbb5c7ef1e.htm">
+      <HelpTOCNode Title="TodoItemManager Constructor " Url="html/ff6ccef3-92c6-7d07-fec1-16a1907a01f4.htm" />
+      <HelpTOCNode Id="778d3f75-5487-49e3-a39a-d38399041618" Title="TodoItemManager Methods" Url="html/a901fda6-e8ef-4cdb-49c8-462938e22185.htm">
+        <HelpTOCNode Title="DeleteTaskAsync Method " Url="html/c9c86fca-ed63-f5a2-d65e-243ea11d9f70.htm" />
+        <HelpTOCNode Title="GetTasksAsync Method " Url="html/21b04ced-74a0-a0b7-52e9-d97a46a81207.htm" />
+        <HelpTOCNode Title="SaveTaskAsync Method " Url="html/b5a41035-76e9-4b4a-ca1f-790f80618f22.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="0777cf16-775a-4948-a613-3f7d9597ff7f" Title="TodoItemManagerRegistro Class" Url="html/92bf4bb6-3d0f-f575-c939-902e56344054.htm">
+      <HelpTOCNode Title="TodoItemManagerRegistro Constructor " Url="html/8d898b5e-746e-1d0d-40a4-2ba769bee0c9.htm" />
+      <HelpTOCNode Id="967479b9-30b7-44fb-b86b-736c1aca0ae0" Title="TodoItemManagerRegistro Methods" Url="html/04747b49-f417-c3c6-3e77-433314f68999.htm">
+        <HelpTOCNode Title="DeleteTaskAsync Method " Url="html/fc952dba-a39d-08c5-6c9e-cabd2809c049.htm" />
+        <HelpTOCNode Title="GetTasksAsync Method " Url="html/1f7644a1-2f72-d55e-1441-1377fe82f99d.htm" />
+        <HelpTOCNode Title="SaveTaskAsync Method " Url="html/22e8b065-1959-5e31-3480-3fe761ce1136.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="06a4d5d8-ad10-487d-9e10-a00b79d448fc" Title="UserDetailsCredentials Class" Url="html/649cc7c9-3bbc-dee6-a410-d50b82a1724f.htm">
+      <HelpTOCNode Title="UserDetailsCredentials Constructor " Url="html/a3f43c81-b2cc-0309-516d-282b0664cdcb.htm" />
+      <HelpTOCNode Id="2f23024c-e953-4f15-a4a1-c6fdd61adeed" Title="UserDetailsCredentials Properties" Url="html/4ae99db4-36c1-1257-50a8-5bc38cc1f8c3.htm">
+        <HelpTOCNode Title="contrasena Property " Url="html/2b9dc66e-69ba-af80-f1f6-47009f3c58ab.htm" />
+        <HelpTOCNode Title="id Property " Url="html/6284c561-b08a-8e97-4890-a60266f2b2e7.htm" />
+        <HelpTOCNode Title="rol Property " Url="html/9c2be447-18ab-a70b-2bc1-837dc2302518.htm" />
+        <HelpTOCNode Title="usuario Property " Url="html/1a8dc4a6-3faf-9f56-af63-4c754ed5e6f5.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="UserDetailsCredentials Methods" Url="html/bc79a8e6-eb46-ae0d-e05a-369e90d3dee6.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="fdfda16b-0ef5-4938-aff7-a7018ba3febf" Title="SergioDelgadoProyecto.formCrearObjetivo" Url="html/fa2ba91d-46bd-d583-c48a-1b878aeb7184.htm">
+    <HelpTOCNode Id="16fb3742-56ed-4540-8230-80c0983ff81e" Title="crearObjetivos Class" Url="html/dbd27919-6c87-e7a0-05c7-4827a0ab61a6.htm">
+      <HelpTOCNode Title="crearObjetivos Constructor " Url="html/2e2059a0-32ff-f91a-fe92-3603c757a161.htm" />
+      <HelpTOCNode Id="94e06bba-8961-4158-bbbc-1404e4574dbc" Title="crearObjetivos Methods" Url="html/1857da79-a116-92d9-deb3-22d74c238ba5.htm">
+        <HelpTOCNode Title="Fecha_DateSelected Method " Url="html/a3f9f91f-949e-0f66-927e-fd0c32eef475.htm" />
+        <HelpTOCNode Title="OnAppearing Method " Url="html/e5a22c72-d662-e25a-31ff-e51ddf4d7326.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="5883aa40-1c03-416d-8120-8ce0fc3b2d8e" Title="crearObjetivos Fields" Url="html/44979bc3-7ee6-63b1-735f-d282f7995ddb.htm">
+        <HelpTOCNode Title="urL Field" Url="html/03e6dc88-f823-9b3e-e68e-f5f24c9572dd.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="358454bd-4f66-48f6-91a1-c7c15cc233af" Title="SergioDelgadoProyecto.formGasolinera" Url="html/f92ee2ab-3eb0-aa3e-f04b-730144f12185.htm">
+    <HelpTOCNode Id="2de10e85-8b54-4e2b-b129-80bf5355c314" Title="Gasolinera Class" Url="html/556bbc11-efd8-7206-23f1-2d0503737dc4.htm">
+      <HelpTOCNode Title="Gasolinera Constructor " Url="html/428263df-f32d-9a69-f6d5-75ddf3af1217.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="710c6c6f-b766-47c8-ac26-f644c4131208" Title="SergioDelgadoProyecto.formObjetivos" Url="html/40773d81-e352-256a-6d60-8473b5838c46.htm">
+    <HelpTOCNode Id="507218ec-a283-4072-843b-f21697b000fb" Title="Objetivos Class" Url="html/d9a900dd-2f03-2562-1310-f3c63d326e33.htm">
+      <HelpTOCNode Title="Objetivos Constructor " Url="html/5a3473de-a724-2898-a911-0e964e2ab2cc.htm" />
+      <HelpTOCNode Id="710e4948-6ef6-4ccb-98ff-5976b2333c68" Title="Objetivos Methods" Url="html/c585e6c2-f548-53e6-a98c-3d1afcafa915.htm">
+        <HelpTOCNode Title="OnAppearing Method " Url="html/b35c1200-6577-e349-b483-2f34891f76e0.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="1038b911-537d-4891-98e4-9df450e4a2c8" Title="Objetivos Fields" Url="html/7e86d6b3-ab37-8a02-3144-94ce04b94257.htm">
+        <HelpTOCNode Title="urL Field" Url="html/b778984c-38d4-a9fd-cff0-ceee06817ad2.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ec5bf9ef-e0ae-4ab1-985d-f4db7b09dee4" Title="ventanaObjetivo Class" Url="html/ff3fd50a-d7a0-6731-bd68-4628659e17f5.htm">
+      <HelpTOCNode Title="ventanaObjetivo Constructor " Url="html/b79ef09f-76d3-779c-b371-87097c83e726.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="3f39044f-1b74-4000-8bee-003a34be19ca" Title="ventanaObjetivos Class" Url="html/cc83c4b6-935f-f098-2024-412ce15128ad.htm">
+      <HelpTOCNode Title="ventanaObjetivos Constructor " Url="html/101e0e93-2379-84e4-b76b-80f861c454cd.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="c5a898bc-2633-4081-9a63-d7d62cc6a2d0" Title="SergioDelgadoProyecto.formObjetivosCumplidos" Url="html/629f398f-e38e-adc0-79ac-dd3ef968ee87.htm">
+    <HelpTOCNode Id="9f8d46af-f41c-471e-9ea2-3365d8dcb4b3" Title="objetivoCumplido Class" Url="html/5f5c16bc-a0be-a182-1a72-d12a10d8a6d0.htm">
+      <HelpTOCNode Title="objetivoCumplido Constructor " Url="html/ae9037c5-4e66-8050-9433-b9f79ccfeb31.htm" />
+      <HelpTOCNode Id="7c89ae4e-6b7e-4f85-aee3-b8b6b8329f60" Title="objetivoCumplido Methods" Url="html/befaecc9-88f5-6ed0-d682-29753581e535.htm">
+        <HelpTOCNode Title="OnAppearing Method " Url="html/0c7efb1f-7ad8-9f5c-b09e-5f353cef4020.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="68bfe35d-2823-4cd0-b54b-0927874afcd3" Title="objetivoCumplido Fields" Url="html/6416fb33-fc7d-2c8d-6f56-7c2ab3227697.htm">
+        <HelpTOCNode Title="urL Field" Url="html/2d24605a-0c69-7338-2382-ebd2fb42edde.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="6f2adcf3-629e-420b-91bb-c1276489e39c" Title="SergioDelgadoProyecto.formObjetivosCumplidosAjenos" Url="html/5083c8f4-b610-38fe-b768-ad631dea0fb8.htm">
+    <HelpTOCNode Id="c70c277b-00af-4734-bf25-369612409070" Title="OcAjenos Class" Url="html/251f1690-852a-b2ae-659e-a6eb82c914a9.htm">
+      <HelpTOCNode Title="OcAjenos Constructor " Url="html/d0649f55-e50e-052c-63b7-cc06dc5ea661.htm" />
+      <HelpTOCNode Id="89e392be-fde8-442b-8ce1-68177c2d7719" Title="OcAjenos Methods" Url="html/2775cd1f-efe8-9f9b-011b-4a8707c1dfdd.htm">
+        <HelpTOCNode Title="OnAppearing Method " Url="html/4078981a-c4e5-b3d0-6cbc-233e2fa30e05.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="18bcaadf-5e71-4e8d-b43e-179a1dbbc654" Title="OcAjenos Fields" Url="html/a3421ba7-d36a-f51d-0096-1c5801753bd2.htm">
+        <HelpTOCNode Title="idObjetivo Field" Url="html/9f9a0a8d-7a70-0b2e-21a3-8e1c227753c6.htm" />
+        <HelpTOCNode Title="urL Field" Url="html/6d5c14ff-b525-9ba5-6fcc-13d2482b2f9d.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="8db3b115-f230-40fb-b8b0-f0c2940d1921" Title="TodosObjetivos Class" Url="html/60484ab6-101b-1205-48ed-500f9a48fb5f.htm">
+      <HelpTOCNode Title="TodosObjetivos Constructor " Url="html/75eb9878-bebd-f006-c280-7bdf25787667.htm" />
+      <HelpTOCNode Id="73575fc1-c937-496e-85d9-f45b841023ee" Title="TodosObjetivos Methods" Url="html/5e3f1bbe-b781-4bdd-bce8-95ca21083bd8.htm">
+        <HelpTOCNode Title="OnAppearing Method " Url="html/65575841-3ab5-a596-be75-d6c6cb9c4d65.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="c95767d7-1399-465d-bc90-0bb654425874" Title="TodosObjetivos Fields" Url="html/2802633b-d3f2-e17f-1700-2ac88b0719c1.htm">
+        <HelpTOCNode Title="urL Field" Url="html/9d0f48fb-1997-597f-79aa-94e6677b6133.htm" />
+        <HelpTOCNode Title="urL1 Field" Url="html/c1d588a3-653c-4137-e861-5e10da349904.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="26cf4883-d65b-48c2-ad98-0cb6ad6c233c" Title="SergioDelgadoProyecto.ServicioRest" Url="html/066c9c35-d3c4-62eb-75af-341ed72d8aea.htm">
+    <HelpTOCNode Id="543d2a2b-389a-4118-ac1a-61bf7571d4e2" Title="Model_Post Class" Url="html/71a548ef-b4ef-ec67-acda-246f9bcd3345.htm">
+      <HelpTOCNode Title="Model_Post Constructor " Url="html/52fd48bb-a8ef-7f47-2847-427ed3fca3e9.htm" />
+      <HelpTOCNode Id="02ce0d56-0d2b-41c2-9eaf-7a383bb819b9" Title="Model_Post Properties" Url="html/b4b5be60-9afb-4b9d-ddfc-babf47a65a35.htm">
+        <HelpTOCNode Title="fecha Property " Url="html/e2ee6a19-c40b-e27c-aebd-c98f9a02e873.htm" />
+        <HelpTOCNode Title="id Property " Url="html/809b7476-7f59-e7f0-6488-a8d6a1bdb02d.htm" />
+        <HelpTOCNode Title="objetivos Property " Url="html/a0b2d934-208c-a6b7-5626-d0e50e20f327.htm" />
+        <HelpTOCNode Title="registro_id Property " Url="html/a1917976-a583-2578-2f8d-6300b67f4d33.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="Model_Post Methods" Url="html/a3c23535-5891-0857-82bb-19c743783096.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="e120b463-ab61-491f-a6fb-93abe9239089" Title="registros Class" Url="html/fd720191-91bc-4673-c44b-24246fb42093.htm">
+      <HelpTOCNode Title="registros Constructor " Url="html/9dcf97cf-9bae-27d7-6fab-b2f9a8932947.htm" />
+      <HelpTOCNode Id="55fea589-9ac4-4c04-a723-a651e1ea256a" Title="registros Properties" Url="html/9dd1051b-9903-fe7a-e172-149266703bbf.htm">
+        <HelpTOCNode Title="id Property " Url="html/aaee92e2-1b4a-8cc6-698f-6a3d6144f3d0.htm" />
+        <HelpTOCNode Title="nombre Property " Url="html/95f0320a-ef68-2664-f55b-6985791397d5.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="registros Methods" Url="html/f18dc7d1-2a44-2e05-0f35-9597b9598867.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="11694186-425f-440f-aad0-e0056212e410" Title="SergioDelgadoProyecto.view.formObjetivosCumplidosAjenos" Url="html/9b48c496-ca4e-0a91-5ef2-90c4f8873c4b.htm">
+    <HelpTOCNode Id="9c907ec0-be4e-4b86-acb5-c00a51645ea2" Title="DetallesAjenos Class" Url="html/6c16a3ce-9467-bb03-ce4c-f550749166d9.htm">
+      <HelpTOCNode Title="DetallesAjenos Constructor " Url="html/73fa1495-984c-31b5-d464-d645d0caa919.htm" />
+      <HelpTOCNode Id="b52f1732-97f9-4774-b561-7320b5fb2744" Title="DetallesAjenos Methods" Url="html/096d8824-c417-2701-808f-5bfbe675fc28.htm">
+        <HelpTOCNode Title="Fecha_DateSelected Method " Url="html/88ef7862-5fcd-9045-9819-ef0da0e365e1.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

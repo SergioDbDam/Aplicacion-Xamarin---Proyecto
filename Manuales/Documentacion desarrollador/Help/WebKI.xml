@@ -1,0 +1,425 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="App class">
+    <HelpKINode Title="App Class" Url="html/bb779a20-3293-d5d1-7f9c-78209798363b.htm" />
+    <HelpKINode Title="constructor" Url="html/b680635b-a373-7c1f-5373-e8d4c9e0c7ad.htm" />
+    <HelpKINode Title="methods" Url="html/d6c1375b-0f44-d45a-507b-54992b6865ac.htm" />
+    <HelpKINode Title="properties" Url="html/98943ee4-a0d9-b93b-d7d7-e58566bcc9eb.htm" />
+  </HelpKINode>
+  <HelpKINode Title="App.App constructor" Url="html/b680635b-a373-7c1f-5373-e8d4c9e0c7ad.htm" />
+  <HelpKINode Title="App.OnResume method" Url="html/927f5516-1d34-5572-6f8d-f2c30192fda6.htm" />
+  <HelpKINode Title="App.OnSleep method" Url="html/c732a52b-9708-12f0-7ca3-0f79d935d88f.htm" />
+  <HelpKINode Title="App.OnStart method" Url="html/9938bdd8-8579-8835-591e-bf982ef672e0.htm" />
+  <HelpKINode Title="App.TodoManager property" Url="html/1580bede-680d-ea92-4c56-df8344ebabc6.htm" />
+  <HelpKINode Title="checkLogin method" Url="html/5a4cecd6-7b04-869b-c98c-3bf24f8332f4.htm" />
+  <HelpKINode Title="CheckLoginIfExists method" Url="html/e6dc6112-69da-331f-556e-2aa913c1e607.htm" />
+  <HelpKINode Title="contrasena property" Url="html/2b9dc66e-69ba-af80-f1f6-47009f3c58ab.htm" />
+  <HelpKINode Title="crearObjetivos class">
+    <HelpKINode Title="crearObjetivos Class" Url="html/dbd27919-6c87-e7a0-05c7-4827a0ab61a6.htm" />
+    <HelpKINode Title="constructor" Url="html/2e2059a0-32ff-f91a-fe92-3603c757a161.htm" />
+    <HelpKINode Title="fields" Url="html/44979bc3-7ee6-63b1-735f-d282f7995ddb.htm" />
+    <HelpKINode Title="methods" Url="html/1857da79-a116-92d9-deb3-22d74c238ba5.htm" />
+  </HelpKINode>
+  <HelpKINode Title="crearObjetivos.crearObjetivos constructor" Url="html/2e2059a0-32ff-f91a-fe92-3603c757a161.htm" />
+  <HelpKINode Title="crearObjetivos.Fecha_DateSelected method" Url="html/a3f9f91f-949e-0f66-927e-fd0c32eef475.htm" />
+  <HelpKINode Title="crearObjetivos.OnAppearing method" Url="html/e5a22c72-d662-e25a-31ff-e51ddf4d7326.htm" />
+  <HelpKINode Title="crearObjetivos.urL field" Url="html/03e6dc88-f823-9b3e-e68e-f5f24c9572dd.htm" />
+  <HelpKINode Title="DeleteTaskAsync method">
+    <HelpKINode Title="TodoItemManager.DeleteTaskAsync Method " Url="html/c9c86fca-ed63-f5a2-d65e-243ea11d9f70.htm" />
+    <HelpKINode Title="TodoItemManagerRegistro.DeleteTaskAsync Method " Url="html/fc952dba-a39d-08c5-6c9e-cabd2809c049.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DeleteTodoItemAsync method">
+    <HelpKINode Title="IRestService.DeleteTodoItemAsync Method " Url="html/7ebf2dba-d3c4-e65e-0c7a-8ae7a70fc226.htm" />
+    <HelpKINode Title="IRestServiceRegistro.DeleteTodoItemAsync Method " Url="html/9fa7d9e5-11f1-a399-16d8-989e681d8e67.htm" />
+    <HelpKINode Title="RestService.DeleteTodoItemAsync Method " Url="html/0eece06a-8184-2a2f-e1fa-5d9b17085103.htm" />
+    <HelpKINode Title="RestServiceRegistro.DeleteTodoItemAsync Method " Url="html/868cabee-1170-c6c0-27a1-d8cc6902cab3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DetallesAjenos class">
+    <HelpKINode Title="DetallesAjenos Class" Url="html/6c16a3ce-9467-bb03-ce4c-f550749166d9.htm" />
+    <HelpKINode Title="constructor" Url="html/73fa1495-984c-31b5-d464-d645d0caa919.htm" />
+    <HelpKINode Title="methods" Url="html/096d8824-c417-2701-808f-5bfbe675fc28.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DetallesAjenos.DetallesAjenos constructor" Url="html/73fa1495-984c-31b5-d464-d645d0caa919.htm" />
+  <HelpKINode Title="DetallesAjenos.Fecha_DateSelected method" Url="html/88ef7862-5fcd-9045-9819-ef0da0e365e1.htm" />
+  <HelpKINode Title="fecha property" Url="html/e2ee6a19-c40b-e27c-aebd-c98f9a02e873.htm" />
+  <HelpKINode Title="Fecha_DateSelected method">
+    <HelpKINode Title="crearObjetivos.Fecha_DateSelected Method " Url="html/a3f9f91f-949e-0f66-927e-fd0c32eef475.htm" />
+    <HelpKINode Title="DetallesAjenos.Fecha_DateSelected Method " Url="html/88ef7862-5fcd-9045-9819-ef0da0e365e1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Gasolinera class">
+    <HelpKINode Title="Gasolinera Class" Url="html/556bbc11-efd8-7206-23f1-2d0503737dc4.htm" />
+    <HelpKINode Title="constructor" Url="html/428263df-f32d-9a69-f6d5-75ddf3af1217.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Gasolinera.Gasolinera constructor" Url="html/428263df-f32d-9a69-f6d5-75ddf3af1217.htm" />
+  <HelpKINode Title="GetTasksAsync method">
+    <HelpKINode Title="TodoItemManager.GetTasksAsync Method " Url="html/21b04ced-74a0-a0b7-52e9-d97a46a81207.htm" />
+    <HelpKINode Title="TodoItemManagerRegistro.GetTasksAsync Method " Url="html/1f7644a1-2f72-d55e-1441-1377fe82f99d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="id property">
+    <HelpKINode Title="Model_Post.id Property " Url="html/809b7476-7f59-e7f0-6488-a8d6a1bdb02d.htm" />
+    <HelpKINode Title="UserDetailsCredentials.id Property " Url="html/6284c561-b08a-8e97-4890-a60266f2b2e7.htm" />
+    <HelpKINode Title="registros.id Property " Url="html/aaee92e2-1b4a-8cc6-698f-6a3d6144f3d0.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Id property">
+    <HelpKINode Title="paginaPrincipalMenuItemA.Id Property " Url="html/4e17b7e7-7786-4b12-fd59-9c2e7d27f9e4.htm" />
+    <HelpKINode Title="paginaPrincipalMenuItem.Id Property " Url="html/bec31184-9248-776c-602c-c9d94acff10c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="idMiembro field" Url="html/773af177-d4b4-57e6-f631-ad96fecf3197.htm" />
+  <HelpKINode Title="idObjetivo field" Url="html/9f9a0a8d-7a70-0b2e-21a3-8e1c227753c6.htm" />
+  <HelpKINode Title="ImageResourceExtension class">
+    <HelpKINode Title="methods" Url="html/75a08d9d-42a9-bdf7-5ee6-f956f2ff8d08.htm" />
+    <HelpKINode Title="properties" Url="html/6a5d5ffe-7457-bcec-f560-a333d213ea4e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IRestService interface">
+    <HelpKINode Title="IRestService Interface" Url="html/40314be2-3270-300e-d4bf-56f989deaa7f.htm" />
+    <HelpKINode Title="methods" Url="html/38bcb44f-b59e-e600-08b9-705f45ea4396.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IRestService.DeleteTodoItemAsync method" Url="html/7ebf2dba-d3c4-e65e-0c7a-8ae7a70fc226.htm" />
+  <HelpKINode Title="IRestService.RefreshDataAsync method" Url="html/6e83cdbb-f419-5f7a-ebda-12cef1dc820a.htm" />
+  <HelpKINode Title="IRestService.SaveTodoItemAsync method" Url="html/df02de62-fc20-b812-62e7-6acc2120fd8d.htm" />
+  <HelpKINode Title="IRestServiceRegistro interface">
+    <HelpKINode Title="IRestServiceRegistro Interface" Url="html/59cb0fc5-d47a-1bc1-a6fd-22adde7239c1.htm" />
+    <HelpKINode Title="methods" Url="html/25761d60-f055-b09c-086b-028fd0edd2d4.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IRestServiceRegistro.DeleteTodoItemAsync method" Url="html/9fa7d9e5-11f1-a399-16d8-989e681d8e67.htm" />
+  <HelpKINode Title="IRestServiceRegistro.RefreshDataAsync method" Url="html/bec29569-309b-adea-d705-a33bd4f3de90.htm" />
+  <HelpKINode Title="IRestServiceRegistro.SaveTodoItemAsync method" Url="html/1cf5389a-f6f1-ab2c-6f54-46cb29160c7a.htm" />
+  <HelpKINode Title="Items property">
+    <HelpKINode Title="RestService.Items Property " Url="html/376fd75f-0b4e-3b62-a67c-d16bedd50251.htm" />
+    <HelpKINode Title="RestServiceRegistro.Items Property " Url="html/b4a9807a-4ffa-eb93-75b6-24f3b3859493.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ListView field">
+    <HelpKINode Title="PaginaPrincipalMaster.ListView Field" Url="html/1a73280e-304c-f3f3-0adb-cd21f2e794fe.htm" />
+    <HelpKINode Title="paginaPrincipalMasterA.ListView Field" Url="html/c3595adf-79ad-1b33-d58a-c6a0a19b582c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LoginService class">
+    <HelpKINode Title="LoginService Class" Url="html/3fea2ed4-903c-5778-0b53-cc16f03b89a6.htm" />
+    <HelpKINode Title="constructor" Url="html/8038567c-c89d-33e2-95a6-e0231fb5a228.htm" />
+    <HelpKINode Title="methods" Url="html/3718da9c-77f9-e9a4-0b73-7a88084546f2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LoginService.CheckLoginIfExists method" Url="html/e6dc6112-69da-331f-556e-2aa913c1e607.htm" />
+  <HelpKINode Title="LoginService.LoginService constructor" Url="html/8038567c-c89d-33e2-95a6-e0231fb5a228.htm" />
+  <HelpKINode Title="MainPage class">
+    <HelpKINode Title="MainPage Class" Url="html/c8ca6d75-3f72-d0f8-37da-728fa82cc84f.htm" />
+    <HelpKINode Title="constructor" Url="html/ca69b855-6af8-3d08-47ca-6a7cc19e2952.htm" />
+    <HelpKINode Title="methods" Url="html/4aaf9607-e9a8-0cea-0e66-2be0ced22ebc.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MainPage.ImageResourceExtension class">
+    <HelpKINode Title="MainPage.ImageResourceExtension Class" Url="html/b112603a-df52-08be-4311-f3f3d55ef081.htm" />
+    <HelpKINode Title="constructor" Url="html/1c674633-b0fb-2add-8a32-b73b1d048984.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MainPage.ImageResourceExtension.ImageResourceExtension constructor" Url="html/1c674633-b0fb-2add-8a32-b73b1d048984.htm" />
+  <HelpKINode Title="MainPage.ImageResourceExtension.ProvideValue method" Url="html/bc29a2e5-8549-85e8-e1ff-ebaefdde1994.htm" />
+  <HelpKINode Title="MainPage.ImageResourceExtension.Source property" Url="html/b0904b66-9c4f-6fb0-8cc6-d52ca7bf8086.htm" />
+  <HelpKINode Title="MainPage.MainPage constructor" Url="html/ca69b855-6af8-3d08-47ca-6a7cc19e2952.htm" />
+  <HelpKINode Title="MainPage.OnAppearing method" Url="html/d8a3fec2-ff66-46af-dd77-f5616c12f825.htm" />
+  <HelpKINode Title="Model_Post class">
+    <HelpKINode Title="Model_Post Class" Url="html/71a548ef-b4ef-ec67-acda-246f9bcd3345.htm" />
+    <HelpKINode Title="constructor" Url="html/52fd48bb-a8ef-7f47-2847-427ed3fca3e9.htm" />
+    <HelpKINode Title="methods" Url="html/a3c23535-5891-0857-82bb-19c743783096.htm" />
+    <HelpKINode Title="properties" Url="html/b4b5be60-9afb-4b9d-ddfc-babf47a65a35.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Model_Post.fecha property" Url="html/e2ee6a19-c40b-e27c-aebd-c98f9a02e873.htm" />
+  <HelpKINode Title="Model_Post.id property" Url="html/809b7476-7f59-e7f0-6488-a8d6a1bdb02d.htm" />
+  <HelpKINode Title="Model_Post.Model_Post constructor" Url="html/52fd48bb-a8ef-7f47-2847-427ed3fca3e9.htm" />
+  <HelpKINode Title="Model_Post.objetivos property" Url="html/a0b2d934-208c-a6b7-5626-d0e50e20f327.htm" />
+  <HelpKINode Title="Model_Post.registro_id property" Url="html/a1917976-a583-2578-2f8d-6300b67f4d33.htm" />
+  <HelpKINode Title="nombre field" Url="html/b4d67fcd-1d28-28b0-d8b0-63bef95c74e3.htm" />
+  <HelpKINode Title="nombre property" Url="html/95f0320a-ef68-2664-f55b-6985791397d5.htm" />
+  <HelpKINode Title="objetivoCumplido class">
+    <HelpKINode Title="objetivoCumplido Class" Url="html/5f5c16bc-a0be-a182-1a72-d12a10d8a6d0.htm" />
+    <HelpKINode Title="constructor" Url="html/ae9037c5-4e66-8050-9433-b9f79ccfeb31.htm" />
+    <HelpKINode Title="fields" Url="html/6416fb33-fc7d-2c8d-6f56-7c2ab3227697.htm" />
+    <HelpKINode Title="methods" Url="html/befaecc9-88f5-6ed0-d682-29753581e535.htm" />
+  </HelpKINode>
+  <HelpKINode Title="objetivoCumplido.objetivoCumplido constructor" Url="html/ae9037c5-4e66-8050-9433-b9f79ccfeb31.htm" />
+  <HelpKINode Title="objetivoCumplido.OnAppearing method" Url="html/0c7efb1f-7ad8-9f5c-b09e-5f353cef4020.htm" />
+  <HelpKINode Title="objetivoCumplido.urL field" Url="html/2d24605a-0c69-7338-2382-ebd2fb42edde.htm" />
+  <HelpKINode Title="Objetivos class">
+    <HelpKINode Title="Objetivos Class" Url="html/d9a900dd-2f03-2562-1310-f3c63d326e33.htm" />
+    <HelpKINode Title="constructor" Url="html/5a3473de-a724-2898-a911-0e964e2ab2cc.htm" />
+    <HelpKINode Title="fields" Url="html/7e86d6b3-ab37-8a02-3144-94ce04b94257.htm" />
+    <HelpKINode Title="methods" Url="html/c585e6c2-f548-53e6-a98c-3d1afcafa915.htm" />
+  </HelpKINode>
+  <HelpKINode Title="objetivos property" Url="html/a0b2d934-208c-a6b7-5626-d0e50e20f327.htm" />
+  <HelpKINode Title="Objetivos.Objetivos constructor" Url="html/5a3473de-a724-2898-a911-0e964e2ab2cc.htm" />
+  <HelpKINode Title="Objetivos.OnAppearing method" Url="html/b35c1200-6577-e349-b483-2f34891f76e0.htm" />
+  <HelpKINode Title="Objetivos.urL field" Url="html/b778984c-38d4-a9fd-cff0-ceee06817ad2.htm" />
+  <HelpKINode Title="OcAjenos class">
+    <HelpKINode Title="OcAjenos Class" Url="html/251f1690-852a-b2ae-659e-a6eb82c914a9.htm" />
+    <HelpKINode Title="constructor" Url="html/d0649f55-e50e-052c-63b7-cc06dc5ea661.htm" />
+    <HelpKINode Title="fields" Url="html/a3421ba7-d36a-f51d-0096-1c5801753bd2.htm" />
+    <HelpKINode Title="methods" Url="html/2775cd1f-efe8-9f9b-011b-4a8707c1dfdd.htm" />
+  </HelpKINode>
+  <HelpKINode Title="OcAjenos.idObjetivo field" Url="html/9f9a0a8d-7a70-0b2e-21a3-8e1c227753c6.htm" />
+  <HelpKINode Title="OcAjenos.OcAjenos constructor" Url="html/d0649f55-e50e-052c-63b7-cc06dc5ea661.htm" />
+  <HelpKINode Title="OcAjenos.OnAppearing method" Url="html/4078981a-c4e5-b3d0-6cbc-233e2fa30e05.htm" />
+  <HelpKINode Title="OcAjenos.urL field" Url="html/6d5c14ff-b525-9ba5-6fcc-13d2482b2f9d.htm" />
+  <HelpKINode Title="OnAppearing method">
+    <HelpKINode Title="crearObjetivos.OnAppearing Method " Url="html/e5a22c72-d662-e25a-31ff-e51ddf4d7326.htm" />
+    <HelpKINode Title="MainPage.OnAppearing Method " Url="html/d8a3fec2-ff66-46af-dd77-f5616c12f825.htm" />
+    <HelpKINode Title="objetivoCumplido.OnAppearing Method " Url="html/0c7efb1f-7ad8-9f5c-b09e-5f353cef4020.htm" />
+    <HelpKINode Title="Objetivos.OnAppearing Method " Url="html/b35c1200-6577-e349-b483-2f34891f76e0.htm" />
+    <HelpKINode Title="OcAjenos.OnAppearing Method " Url="html/4078981a-c4e5-b3d0-6cbc-233e2fa30e05.htm" />
+    <HelpKINode Title="paginaPrincipalDetail.OnAppearing Method " Url="html/54c16e88-71d7-ff42-3af9-02ed35b64c24.htm" />
+    <HelpKINode Title="paginaPrincipalDetailA.OnAppearing Method " Url="html/7ea5477e-ac2b-cbe8-1546-3b6d9ecdc92e.htm" />
+    <HelpKINode Title="TodosObjetivos.OnAppearing Method " Url="html/65575841-3ab5-a596-be75-d6c6cb9c4d65.htm" />
+  </HelpKINode>
+  <HelpKINode Title="OnResume method" Url="html/927f5516-1d34-5572-6f8d-f2c30192fda6.htm" />
+  <HelpKINode Title="OnSleep method" Url="html/c732a52b-9708-12f0-7ca3-0f79d935d88f.htm" />
+  <HelpKINode Title="OnStart method" Url="html/9938bdd8-8579-8835-591e-bf982ef672e0.htm" />
+  <HelpKINode Title="paginaPrincipal class">
+    <HelpKINode Title="paginaPrincipal Class" Url="html/3c10d4fd-faaf-fc39-34ee-da10cc7f70cd.htm" />
+    <HelpKINode Title="constructor" Url="html/6407fe62-dd43-a10b-340a-ae23ea43a4fc.htm" />
+  </HelpKINode>
+  <HelpKINode Title="paginaPrincipal.paginaPrincipal constructor" Url="html/6407fe62-dd43-a10b-340a-ae23ea43a4fc.htm" />
+  <HelpKINode Title="paginaPrincipalA class">
+    <HelpKINode Title="paginaPrincipalA Class" Url="html/cfb98585-b9cb-d3a6-02d4-f49203481a70.htm" />
+    <HelpKINode Title="constructor" Url="html/a2ab84db-8da9-46fa-3328-8b13dc4841bd.htm" />
+  </HelpKINode>
+  <HelpKINode Title="paginaPrincipalA.paginaPrincipalA constructor" Url="html/a2ab84db-8da9-46fa-3328-8b13dc4841bd.htm" />
+  <HelpKINode Title="paginaPrincipalDetail class">
+    <HelpKINode Title="paginaPrincipalDetail Class" Url="html/6e378649-e15f-ad0b-e58e-a05142ec2e8e.htm" />
+    <HelpKINode Title="constructor" Url="html/f7aa5c57-6bef-9e7c-ccb8-0be06b3e9133.htm" />
+    <HelpKINode Title="fields" Url="html/d487b18c-efda-b07c-1e0d-644b49f6e66d.htm" />
+    <HelpKINode Title="methods" Url="html/8afe11c8-a14d-cfc1-9996-b2bd97bbd094.htm" />
+  </HelpKINode>
+  <HelpKINode Title="paginaPrincipalDetail.OnAppearing method" Url="html/54c16e88-71d7-ff42-3af9-02ed35b64c24.htm" />
+  <HelpKINode Title="paginaPrincipalDetail.paginaPrincipalDetail constructor" Url="html/f7aa5c57-6bef-9e7c-ccb8-0be06b3e9133.htm" />
+  <HelpKINode Title="paginaPrincipalDetail.urL field" Url="html/e85bbc2a-99d8-0070-ba95-22c988e42d3a.htm" />
+  <HelpKINode Title="paginaPrincipalDetail.urL1 field" Url="html/af32f527-ede6-cb31-6a4f-46e8651acd00.htm" />
+  <HelpKINode Title="paginaPrincipalDetailA class">
+    <HelpKINode Title="paginaPrincipalDetailA Class" Url="html/c1409a08-493d-82cf-c5b4-02904df31885.htm" />
+    <HelpKINode Title="constructor" Url="html/1579d8fa-8ca8-67f1-3c06-5c7074f66837.htm" />
+    <HelpKINode Title="fields" Url="html/63cc4caa-7900-fc12-66ed-dac5704a9feb.htm" />
+    <HelpKINode Title="methods" Url="html/40754e9a-2619-4485-9207-870be46b6ace.htm" />
+  </HelpKINode>
+  <HelpKINode Title="paginaPrincipalDetailA.OnAppearing method" Url="html/7ea5477e-ac2b-cbe8-1546-3b6d9ecdc92e.htm" />
+  <HelpKINode Title="paginaPrincipalDetailA.paginaPrincipalDetailA constructor" Url="html/1579d8fa-8ca8-67f1-3c06-5c7074f66837.htm" />
+  <HelpKINode Title="paginaPrincipalDetailA.urL field" Url="html/957e559e-d6e4-4bc3-bc00-73e8acf8b1ec.htm" />
+  <HelpKINode Title="paginaPrincipalDetailA.urL1 field" Url="html/14fbbf96-4cb0-e937-d8f8-052975b800ec.htm" />
+  <HelpKINode Title="PaginaPrincipalMaster class">
+    <HelpKINode Title="PaginaPrincipalMaster Class" Url="html/30458735-48d8-814b-0bcb-19f13b606dfb.htm" />
+    <HelpKINode Title="constructor" Url="html/a5906e3d-c8aa-83f5-7ad7-fe4b19a85e3b.htm" />
+    <HelpKINode Title="fields" Url="html/fbc0a1d8-1ee2-2540-336f-7d8bb045200a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PaginaPrincipalMaster.ListView field" Url="html/1a73280e-304c-f3f3-0adb-cd21f2e794fe.htm" />
+  <HelpKINode Title="PaginaPrincipalMaster.PaginaPrincipalMaster constructor" Url="html/a5906e3d-c8aa-83f5-7ad7-fe4b19a85e3b.htm" />
+  <HelpKINode Title="paginaPrincipalMasterA class">
+    <HelpKINode Title="paginaPrincipalMasterA Class" Url="html/7a050510-de1e-33dc-b3ab-0c659d7c82b3.htm" />
+    <HelpKINode Title="constructor" Url="html/245c1819-f2a2-3453-a663-c762ab840794.htm" />
+    <HelpKINode Title="fields" Url="html/47a6eb5f-d2bf-937e-1d10-a6f53d072b60.htm" />
+  </HelpKINode>
+  <HelpKINode Title="paginaPrincipalMasterA.ListView field" Url="html/c3595adf-79ad-1b33-d58a-c6a0a19b582c.htm" />
+  <HelpKINode Title="paginaPrincipalMasterA.paginaPrincipalMasterA constructor" Url="html/245c1819-f2a2-3453-a663-c762ab840794.htm" />
+  <HelpKINode Title="paginaPrincipalMenuItem class">
+    <HelpKINode Title="paginaPrincipalMenuItem Class" Url="html/a2a3fbd0-d2a3-80ae-c47b-cd10c1acdb94.htm" />
+    <HelpKINode Title="constructor" Url="html/5aa3926a-df27-db77-eae5-ffccf1703517.htm" />
+    <HelpKINode Title="methods" Url="html/74cd2fbf-b69d-960c-f52e-efea17209dc9.htm" />
+    <HelpKINode Title="properties" Url="html/de716cc8-3146-a812-38c6-58a5301c0187.htm" />
+  </HelpKINode>
+  <HelpKINode Title="paginaPrincipalMenuItem.Id property" Url="html/bec31184-9248-776c-602c-c9d94acff10c.htm" />
+  <HelpKINode Title="paginaPrincipalMenuItem.paginaPrincipalMenuItem constructor" Url="html/5aa3926a-df27-db77-eae5-ffccf1703517.htm" />
+  <HelpKINode Title="paginaPrincipalMenuItem.TargetType property" Url="html/733b951d-d96d-d972-fc91-d318e840c443.htm" />
+  <HelpKINode Title="paginaPrincipalMenuItem.Title property" Url="html/2d78e653-27ec-5187-2b7b-431371ae6608.htm" />
+  <HelpKINode Title="paginaPrincipalMenuItemA class">
+    <HelpKINode Title="paginaPrincipalMenuItemA Class" Url="html/5b0ee9ce-b2e5-3d8b-af46-da159fed3e3e.htm" />
+    <HelpKINode Title="constructor" Url="html/6f0881de-fe1b-f46f-8c0d-43b4b822cde8.htm" />
+    <HelpKINode Title="methods" Url="html/0d76e1af-1dc3-88b1-5b85-83ab399e7c25.htm" />
+    <HelpKINode Title="properties" Url="html/5e501276-e185-56d0-7463-4b6ea25c6b0c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="paginaPrincipalMenuItemA.Id property" Url="html/4e17b7e7-7786-4b12-fd59-9c2e7d27f9e4.htm" />
+  <HelpKINode Title="paginaPrincipalMenuItemA.paginaPrincipalMenuItemA constructor" Url="html/6f0881de-fe1b-f46f-8c0d-43b4b822cde8.htm" />
+  <HelpKINode Title="paginaPrincipalMenuItemA.TargetType property" Url="html/a12f5ff6-efb6-15d6-6196-6293aa451c52.htm" />
+  <HelpKINode Title="paginaPrincipalMenuItemA.Title property" Url="html/73f6cfe5-784b-34a3-4e5f-ae6d9addb65f.htm" />
+  <HelpKINode Title="ProvideValue method" Url="html/bc29a2e5-8549-85e8-e1ff-ebaefdde1994.htm" />
+  <HelpKINode Title="RefreshDataAsync method">
+    <HelpKINode Title="IRestService.RefreshDataAsync Method " Url="html/6e83cdbb-f419-5f7a-ebda-12cef1dc820a.htm" />
+    <HelpKINode Title="IRestServiceRegistro.RefreshDataAsync Method " Url="html/bec29569-309b-adea-d705-a33bd4f3de90.htm" />
+    <HelpKINode Title="RestService.RefreshDataAsync Method " Url="html/6ea78ef4-1b84-a8a3-1fed-018ea926554a.htm" />
+    <HelpKINode Title="RestServiceRegistro.RefreshDataAsync Method " Url="html/61637801-bd68-11bc-0244-383915627c5a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="registros class">
+    <HelpKINode Title="registros Class" Url="html/fd720191-91bc-4673-c44b-24246fb42093.htm" />
+    <HelpKINode Title="constructor" Url="html/9dcf97cf-9bae-27d7-6fab-b2f9a8932947.htm" />
+    <HelpKINode Title="methods" Url="html/f18dc7d1-2a44-2e05-0f35-9597b9598867.htm" />
+    <HelpKINode Title="properties" Url="html/9dd1051b-9903-fe7a-e172-149266703bbf.htm" />
+  </HelpKINode>
+  <HelpKINode Title="registros.id property" Url="html/aaee92e2-1b4a-8cc6-698f-6a3d6144f3d0.htm" />
+  <HelpKINode Title="registros.nombre property" Url="html/95f0320a-ef68-2664-f55b-6985791397d5.htm" />
+  <HelpKINode Title="registros.registros constructor" Url="html/9dcf97cf-9bae-27d7-6fab-b2f9a8932947.htm" />
+  <HelpKINode Title="registro_id property" Url="html/a1917976-a583-2578-2f8d-6300b67f4d33.htm" />
+  <HelpKINode Title="RestClient(Of T) class">
+    <HelpKINode Title="RestClient(T) Class" Url="html/18d86175-9711-222f-8a47-501b4eb68b7b.htm" />
+    <HelpKINode Title="constructor" Url="html/4b3bf3d3-35f4-fa16-f04f-2cfc50f94d18.htm" />
+    <HelpKINode Title="fields" Url="html/0d8598b7-6da2-421b-6536-34bf2a1ed22d.htm" />
+    <HelpKINode Title="methods" Url="html/7e9e3e03-2774-123a-05a1-467c77b2a86e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RestClient(Of T).checkLogin method" Url="html/5a4cecd6-7b04-869b-c98c-3bf24f8332f4.htm" />
+  <HelpKINode Title="RestClient(Of T).idMiembro field" Url="html/773af177-d4b4-57e6-f631-ad96fecf3197.htm" />
+  <HelpKINode Title="RestClient(Of T).nombre field" Url="html/b4d67fcd-1d28-28b0-d8b0-63bef95c74e3.htm" />
+  <HelpKINode Title="RestClient(Of T).RestClient constructor" Url="html/4b3bf3d3-35f4-fa16-f04f-2cfc50f94d18.htm" />
+  <HelpKINode Title="RestClient(Of T).resultado field" Url="html/c344685d-79eb-e873-2312-ebc627349eea.htm" />
+  <HelpKINode Title="RestClient(Of T).rol field" Url="html/b7d36b90-b49d-89e5-a12b-9f25e8daff45.htm" />
+  <HelpKINode Title="RestClient&lt;T&gt; class">
+    <HelpKINode Title="RestClient(T) Class" Url="html/18d86175-9711-222f-8a47-501b4eb68b7b.htm" />
+    <HelpKINode Title="constructor" Url="html/4b3bf3d3-35f4-fa16-f04f-2cfc50f94d18.htm" />
+    <HelpKINode Title="fields" Url="html/0d8598b7-6da2-421b-6536-34bf2a1ed22d.htm" />
+    <HelpKINode Title="methods" Url="html/7e9e3e03-2774-123a-05a1-467c77b2a86e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RestClient&lt;T&gt;.checkLogin method" Url="html/5a4cecd6-7b04-869b-c98c-3bf24f8332f4.htm" />
+  <HelpKINode Title="RestClient&lt;T&gt;.idMiembro field" Url="html/773af177-d4b4-57e6-f631-ad96fecf3197.htm" />
+  <HelpKINode Title="RestClient&lt;T&gt;.nombre field" Url="html/b4d67fcd-1d28-28b0-d8b0-63bef95c74e3.htm" />
+  <HelpKINode Title="RestClient&lt;T&gt;.RestClient constructor" Url="html/4b3bf3d3-35f4-fa16-f04f-2cfc50f94d18.htm" />
+  <HelpKINode Title="RestClient&lt;T&gt;.resultado field" Url="html/c344685d-79eb-e873-2312-ebc627349eea.htm" />
+  <HelpKINode Title="RestClient&lt;T&gt;.rol field" Url="html/b7d36b90-b49d-89e5-a12b-9f25e8daff45.htm" />
+  <HelpKINode Title="RestService class">
+    <HelpKINode Title="RestService Class" Url="html/94bf5c4c-9847-cd6b-d3b5-72625ad20102.htm" />
+    <HelpKINode Title="constructor" Url="html/977306b0-e410-3dff-ee9a-10b1df4eb3b6.htm" />
+    <HelpKINode Title="methods" Url="html/eecd9349-6f1a-097a-ffba-1e60bab9a9db.htm" />
+    <HelpKINode Title="properties" Url="html/0b44df28-5345-84e1-3e85-a13af9fdec6f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RestService.DeleteTodoItemAsync method" Url="html/0eece06a-8184-2a2f-e1fa-5d9b17085103.htm" />
+  <HelpKINode Title="RestService.Items property" Url="html/376fd75f-0b4e-3b62-a67c-d16bedd50251.htm" />
+  <HelpKINode Title="RestService.RefreshDataAsync method" Url="html/6ea78ef4-1b84-a8a3-1fed-018ea926554a.htm" />
+  <HelpKINode Title="RestService.RestService constructor" Url="html/977306b0-e410-3dff-ee9a-10b1df4eb3b6.htm" />
+  <HelpKINode Title="RestService.SaveTodoItemAsync method" Url="html/39827b4c-09b2-b20b-b1c9-a96507af1eee.htm" />
+  <HelpKINode Title="RestServiceRegistro class">
+    <HelpKINode Title="RestServiceRegistro Class" Url="html/668e5483-cab7-ac13-9ee2-e17b63c666b1.htm" />
+    <HelpKINode Title="constructor" Url="html/341ad53c-0520-851f-a567-cb27c768aafc.htm" />
+    <HelpKINode Title="methods" Url="html/fb0d1676-64fd-c6e5-e866-870ffb28125e.htm" />
+    <HelpKINode Title="properties" Url="html/5d8f1044-ade9-256d-ef58-7453ea5108fd.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RestServiceRegistro.DeleteTodoItemAsync method" Url="html/868cabee-1170-c6c0-27a1-d8cc6902cab3.htm" />
+  <HelpKINode Title="RestServiceRegistro.Items property" Url="html/b4a9807a-4ffa-eb93-75b6-24f3b3859493.htm" />
+  <HelpKINode Title="RestServiceRegistro.RefreshDataAsync method" Url="html/61637801-bd68-11bc-0244-383915627c5a.htm" />
+  <HelpKINode Title="RestServiceRegistro.RestServiceRegistro constructor" Url="html/341ad53c-0520-851f-a567-cb27c768aafc.htm" />
+  <HelpKINode Title="RestServiceRegistro.SaveTodoItemAsync method" Url="html/d7712194-bffc-2b8a-1165-06f346e9bd61.htm" />
+  <HelpKINode Title="resultado field" Url="html/c344685d-79eb-e873-2312-ebc627349eea.htm" />
+  <HelpKINode Title="rol field" Url="html/b7d36b90-b49d-89e5-a12b-9f25e8daff45.htm" />
+  <HelpKINode Title="rol property" Url="html/9c2be447-18ab-a70b-2bc1-837dc2302518.htm" />
+  <HelpKINode Title="SaveTaskAsync method">
+    <HelpKINode Title="TodoItemManager.SaveTaskAsync Method " Url="html/b5a41035-76e9-4b4a-ca1f-790f80618f22.htm" />
+    <HelpKINode Title="TodoItemManagerRegistro.SaveTaskAsync Method " Url="html/22e8b065-1959-5e31-3480-3fe761ce1136.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SaveTodoItemAsync method">
+    <HelpKINode Title="IRestService.SaveTodoItemAsync Method " Url="html/df02de62-fc20-b812-62e7-6acc2120fd8d.htm" />
+    <HelpKINode Title="IRestServiceRegistro.SaveTodoItemAsync Method " Url="html/1cf5389a-f6f1-ab2c-6f54-46cb29160c7a.htm" />
+    <HelpKINode Title="RestService.SaveTodoItemAsync Method " Url="html/39827b4c-09b2-b20b-b1c9-a96507af1eee.htm" />
+    <HelpKINode Title="RestServiceRegistro.SaveTodoItemAsync Method " Url="html/d7712194-bffc-2b8a-1165-06f346e9bd61.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SergioDelgadoProyecto namespace" Url="html/fe781620-6c01-ff03-c43b-3cc1cec2155c.htm" />
+  <HelpKINode Title="SergioDelgadoProyecto.App class" Url="html/bb779a20-3293-d5d1-7f9c-78209798363b.htm" />
+  <HelpKINode Title="SergioDelgadoProyecto.formCrearObjetivo namespace" Url="html/fa2ba91d-46bd-d583-c48a-1b878aeb7184.htm" />
+  <HelpKINode Title="SergioDelgadoProyecto.formCrearObjetivo.crearObjetivos class" Url="html/dbd27919-6c87-e7a0-05c7-4827a0ab61a6.htm" />
+  <HelpKINode Title="SergioDelgadoProyecto.formGasolinera namespace" Url="html/f92ee2ab-3eb0-aa3e-f04b-730144f12185.htm" />
+  <HelpKINode Title="SergioDelgadoProyecto.formGasolinera.Gasolinera class" Url="html/556bbc11-efd8-7206-23f1-2d0503737dc4.htm" />
+  <HelpKINode Title="SergioDelgadoProyecto.formObjetivos namespace" Url="html/40773d81-e352-256a-6d60-8473b5838c46.htm" />
+  <HelpKINode Title="SergioDelgadoProyecto.formObjetivos.Objetivos class" Url="html/d9a900dd-2f03-2562-1310-f3c63d326e33.htm" />
+  <HelpKINode Title="SergioDelgadoProyecto.formObjetivos.ventanaObjetivo class" Url="html/ff3fd50a-d7a0-6731-bd68-4628659e17f5.htm" />
+  <HelpKINode Title="SergioDelgadoProyecto.formObjetivos.ventanaObjetivos class" Url="html/cc83c4b6-935f-f098-2024-412ce15128ad.htm" />
+  <HelpKINode Title="SergioDelgadoProyecto.formObjetivosCumplidos namespace" Url="html/629f398f-e38e-adc0-79ac-dd3ef968ee87.htm" />
+  <HelpKINode Title="SergioDelgadoProyecto.formObjetivosCumplidos.objetivoCumplido class" Url="html/5f5c16bc-a0be-a182-1a72-d12a10d8a6d0.htm" />
+  <HelpKINode Title="SergioDelgadoProyecto.formObjetivosCumplidosAjenos namespace" Url="html/5083c8f4-b610-38fe-b768-ad631dea0fb8.htm" />
+  <HelpKINode Title="SergioDelgadoProyecto.formObjetivosCumplidosAjenos.OcAjenos class" Url="html/251f1690-852a-b2ae-659e-a6eb82c914a9.htm" />
+  <HelpKINode Title="SergioDelgadoProyecto.formObjetivosCumplidosAjenos.TodosObjetivos class" Url="html/60484ab6-101b-1205-48ed-500f9a48fb5f.htm" />
+  <HelpKINode Title="SergioDelgadoProyecto.IRestService interface" Url="html/40314be2-3270-300e-d4bf-56f989deaa7f.htm" />
+  <HelpKINode Title="SergioDelgadoProyecto.IRestServiceRegistro interface" Url="html/59cb0fc5-d47a-1bc1-a6fd-22adde7239c1.htm" />
+  <HelpKINode Title="SergioDelgadoProyecto.LoginService class" Url="html/3fea2ed4-903c-5778-0b53-cc16f03b89a6.htm" />
+  <HelpKINode Title="SergioDelgadoProyecto.MainPage class" Url="html/c8ca6d75-3f72-d0f8-37da-728fa82cc84f.htm" />
+  <HelpKINode Title="SergioDelgadoProyecto.MainPage.ImageResourceExtension class" Url="html/b112603a-df52-08be-4311-f3f3d55ef081.htm" />
+  <HelpKINode Title="SergioDelgadoProyecto.paginaPrincipal class" Url="html/3c10d4fd-faaf-fc39-34ee-da10cc7f70cd.htm" />
+  <HelpKINode Title="SergioDelgadoProyecto.paginaPrincipalA class" Url="html/cfb98585-b9cb-d3a6-02d4-f49203481a70.htm" />
+  <HelpKINode Title="SergioDelgadoProyecto.paginaPrincipalDetail class" Url="html/6e378649-e15f-ad0b-e58e-a05142ec2e8e.htm" />
+  <HelpKINode Title="SergioDelgadoProyecto.paginaPrincipalDetailA class" Url="html/c1409a08-493d-82cf-c5b4-02904df31885.htm" />
+  <HelpKINode Title="SergioDelgadoProyecto.PaginaPrincipalMaster class" Url="html/30458735-48d8-814b-0bcb-19f13b606dfb.htm" />
+  <HelpKINode Title="SergioDelgadoProyecto.paginaPrincipalMasterA class" Url="html/7a050510-de1e-33dc-b3ab-0c659d7c82b3.htm" />
+  <HelpKINode Title="SergioDelgadoProyecto.paginaPrincipalMenuItem class" Url="html/a2a3fbd0-d2a3-80ae-c47b-cd10c1acdb94.htm" />
+  <HelpKINode Title="SergioDelgadoProyecto.paginaPrincipalMenuItemA class" Url="html/5b0ee9ce-b2e5-3d8b-af46-da159fed3e3e.htm" />
+  <HelpKINode Title="SergioDelgadoProyecto.RestClient(Of T) class" Url="html/18d86175-9711-222f-8a47-501b4eb68b7b.htm" />
+  <HelpKINode Title="SergioDelgadoProyecto.RestClient&lt;T&gt; class" Url="html/18d86175-9711-222f-8a47-501b4eb68b7b.htm" />
+  <HelpKINode Title="SergioDelgadoProyecto.RestService class" Url="html/94bf5c4c-9847-cd6b-d3b5-72625ad20102.htm" />
+  <HelpKINode Title="SergioDelgadoProyecto.RestServiceRegistro class" Url="html/668e5483-cab7-ac13-9ee2-e17b63c666b1.htm" />
+  <HelpKINode Title="SergioDelgadoProyecto.ServicioRest namespace" Url="html/066c9c35-d3c4-62eb-75af-341ed72d8aea.htm" />
+  <HelpKINode Title="SergioDelgadoProyecto.ServicioRest.Model_Post class" Url="html/71a548ef-b4ef-ec67-acda-246f9bcd3345.htm" />
+  <HelpKINode Title="SergioDelgadoProyecto.ServicioRest.registros class" Url="html/fd720191-91bc-4673-c44b-24246fb42093.htm" />
+  <HelpKINode Title="SergioDelgadoProyecto.TodoItemManager class" Url="html/f06e48f4-6600-7a62-95e4-68dbb5c7ef1e.htm" />
+  <HelpKINode Title="SergioDelgadoProyecto.TodoItemManagerRegistro class" Url="html/92bf4bb6-3d0f-f575-c939-902e56344054.htm" />
+  <HelpKINode Title="SergioDelgadoProyecto.UserDetailsCredentials class" Url="html/649cc7c9-3bbc-dee6-a410-d50b82a1724f.htm" />
+  <HelpKINode Title="SergioDelgadoProyecto.view.formObjetivosCumplidosAjenos namespace" Url="html/9b48c496-ca4e-0a91-5ef2-90c4f8873c4b.htm" />
+  <HelpKINode Title="SergioDelgadoProyecto.view.formObjetivosCumplidosAjenos.DetallesAjenos class" Url="html/6c16a3ce-9467-bb03-ce4c-f550749166d9.htm" />
+  <HelpKINode Title="Source property" Url="html/b0904b66-9c4f-6fb0-8cc6-d52ca7bf8086.htm" />
+  <HelpKINode Title="TargetType property">
+    <HelpKINode Title="paginaPrincipalMenuItem.TargetType Property " Url="html/733b951d-d96d-d972-fc91-d318e840c443.htm" />
+    <HelpKINode Title="paginaPrincipalMenuItemA.TargetType Property " Url="html/a12f5ff6-efb6-15d6-6196-6293aa451c52.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Title property">
+    <HelpKINode Title="paginaPrincipalMenuItem.Title Property " Url="html/2d78e653-27ec-5187-2b7b-431371ae6608.htm" />
+    <HelpKINode Title="paginaPrincipalMenuItemA.Title Property " Url="html/73f6cfe5-784b-34a3-4e5f-ae6d9addb65f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TodoItemManager class">
+    <HelpKINode Title="TodoItemManager Class" Url="html/f06e48f4-6600-7a62-95e4-68dbb5c7ef1e.htm" />
+    <HelpKINode Title="constructor" Url="html/ff6ccef3-92c6-7d07-fec1-16a1907a01f4.htm" />
+    <HelpKINode Title="methods" Url="html/a901fda6-e8ef-4cdb-49c8-462938e22185.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TodoItemManager.DeleteTaskAsync method" Url="html/c9c86fca-ed63-f5a2-d65e-243ea11d9f70.htm" />
+  <HelpKINode Title="TodoItemManager.GetTasksAsync method" Url="html/21b04ced-74a0-a0b7-52e9-d97a46a81207.htm" />
+  <HelpKINode Title="TodoItemManager.SaveTaskAsync method" Url="html/b5a41035-76e9-4b4a-ca1f-790f80618f22.htm" />
+  <HelpKINode Title="TodoItemManager.TodoItemManager constructor" Url="html/ff6ccef3-92c6-7d07-fec1-16a1907a01f4.htm" />
+  <HelpKINode Title="TodoItemManagerRegistro class">
+    <HelpKINode Title="TodoItemManagerRegistro Class" Url="html/92bf4bb6-3d0f-f575-c939-902e56344054.htm" />
+    <HelpKINode Title="constructor" Url="html/8d898b5e-746e-1d0d-40a4-2ba769bee0c9.htm" />
+    <HelpKINode Title="methods" Url="html/04747b49-f417-c3c6-3e77-433314f68999.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TodoItemManagerRegistro.DeleteTaskAsync method" Url="html/fc952dba-a39d-08c5-6c9e-cabd2809c049.htm" />
+  <HelpKINode Title="TodoItemManagerRegistro.GetTasksAsync method" Url="html/1f7644a1-2f72-d55e-1441-1377fe82f99d.htm" />
+  <HelpKINode Title="TodoItemManagerRegistro.SaveTaskAsync method" Url="html/22e8b065-1959-5e31-3480-3fe761ce1136.htm" />
+  <HelpKINode Title="TodoItemManagerRegistro.TodoItemManagerRegistro constructor" Url="html/8d898b5e-746e-1d0d-40a4-2ba769bee0c9.htm" />
+  <HelpKINode Title="TodoManager property" Url="html/1580bede-680d-ea92-4c56-df8344ebabc6.htm" />
+  <HelpKINode Title="TodosObjetivos class">
+    <HelpKINode Title="TodosObjetivos Class" Url="html/60484ab6-101b-1205-48ed-500f9a48fb5f.htm" />
+    <HelpKINode Title="constructor" Url="html/75eb9878-bebd-f006-c280-7bdf25787667.htm" />
+    <HelpKINode Title="fields" Url="html/2802633b-d3f2-e17f-1700-2ac88b0719c1.htm" />
+    <HelpKINode Title="methods" Url="html/5e3f1bbe-b781-4bdd-bce8-95ca21083bd8.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TodosObjetivos.OnAppearing method" Url="html/65575841-3ab5-a596-be75-d6c6cb9c4d65.htm" />
+  <HelpKINode Title="TodosObjetivos.TodosObjetivos constructor" Url="html/75eb9878-bebd-f006-c280-7bdf25787667.htm" />
+  <HelpKINode Title="TodosObjetivos.urL field" Url="html/9d0f48fb-1997-597f-79aa-94e6677b6133.htm" />
+  <HelpKINode Title="TodosObjetivos.urL1 field" Url="html/c1d588a3-653c-4137-e861-5e10da349904.htm" />
+  <HelpKINode Title="urL field">
+    <HelpKINode Title="crearObjetivos.urL Field" Url="html/03e6dc88-f823-9b3e-e68e-f5f24c9572dd.htm" />
+    <HelpKINode Title="objetivoCumplido.urL Field" Url="html/2d24605a-0c69-7338-2382-ebd2fb42edde.htm" />
+    <HelpKINode Title="Objetivos.urL Field" Url="html/b778984c-38d4-a9fd-cff0-ceee06817ad2.htm" />
+    <HelpKINode Title="OcAjenos.urL Field" Url="html/6d5c14ff-b525-9ba5-6fcc-13d2482b2f9d.htm" />
+    <HelpKINode Title="paginaPrincipalDetail.urL Field" Url="html/e85bbc2a-99d8-0070-ba95-22c988e42d3a.htm" />
+    <HelpKINode Title="paginaPrincipalDetailA.urL Field" Url="html/957e559e-d6e4-4bc3-bc00-73e8acf8b1ec.htm" />
+    <HelpKINode Title="TodosObjetivos.urL Field" Url="html/9d0f48fb-1997-597f-79aa-94e6677b6133.htm" />
+  </HelpKINode>
+  <HelpKINode Title="urL1 field">
+    <HelpKINode Title="paginaPrincipalDetail.urL1 Field" Url="html/af32f527-ede6-cb31-6a4f-46e8651acd00.htm" />
+    <HelpKINode Title="paginaPrincipalDetailA.urL1 Field" Url="html/14fbbf96-4cb0-e937-d8f8-052975b800ec.htm" />
+    <HelpKINode Title="TodosObjetivos.urL1 Field" Url="html/c1d588a3-653c-4137-e861-5e10da349904.htm" />
+  </HelpKINode>
+  <HelpKINode Title="UserDetailsCredentials class">
+    <HelpKINode Title="UserDetailsCredentials Class" Url="html/649cc7c9-3bbc-dee6-a410-d50b82a1724f.htm" />
+    <HelpKINode Title="constructor" Url="html/a3f43c81-b2cc-0309-516d-282b0664cdcb.htm" />
+    <HelpKINode Title="methods" Url="html/bc79a8e6-eb46-ae0d-e05a-369e90d3dee6.htm" />
+    <HelpKINode Title="properties" Url="html/4ae99db4-36c1-1257-50a8-5bc38cc1f8c3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="UserDetailsCredentials.contrasena property" Url="html/2b9dc66e-69ba-af80-f1f6-47009f3c58ab.htm" />
+  <HelpKINode Title="UserDetailsCredentials.id property" Url="html/6284c561-b08a-8e97-4890-a60266f2b2e7.htm" />
+  <HelpKINode Title="UserDetailsCredentials.rol property" Url="html/9c2be447-18ab-a70b-2bc1-837dc2302518.htm" />
+  <HelpKINode Title="UserDetailsCredentials.UserDetailsCredentials constructor" Url="html/a3f43c81-b2cc-0309-516d-282b0664cdcb.htm" />
+  <HelpKINode Title="UserDetailsCredentials.usuario property" Url="html/1a8dc4a6-3faf-9f56-af63-4c754ed5e6f5.htm" />
+  <HelpKINode Title="usuario property" Url="html/1a8dc4a6-3faf-9f56-af63-4c754ed5e6f5.htm" />
+  <HelpKINode Title="ventanaObjetivo class">
+    <HelpKINode Title="ventanaObjetivo Class" Url="html/ff3fd50a-d7a0-6731-bd68-4628659e17f5.htm" />
+    <HelpKINode Title="constructor" Url="html/b79ef09f-76d3-779c-b371-87097c83e726.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ventanaObjetivo.ventanaObjetivo constructor" Url="html/b79ef09f-76d3-779c-b371-87097c83e726.htm" />
+  <HelpKINode Title="ventanaObjetivos class">
+    <HelpKINode Title="ventanaObjetivos Class" Url="html/cc83c4b6-935f-f098-2024-412ce15128ad.htm" />
+    <HelpKINode Title="constructor" Url="html/101e0e93-2379-84e4-b76b-80f861c454cd.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ventanaObjetivos.ventanaObjetivos constructor" Url="html/101e0e93-2379-84e4-b76b-80f861c454cd.htm" />
+</HelpKI>
