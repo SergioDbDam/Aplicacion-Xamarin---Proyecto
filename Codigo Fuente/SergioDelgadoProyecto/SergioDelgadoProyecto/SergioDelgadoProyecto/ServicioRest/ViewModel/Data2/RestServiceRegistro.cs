@@ -1,4 +1,17 @@
-﻿using System;
+﻿// ***********************************************************************
+// Assembly         : SergioDelgadoProyecto
+// Author           : Sergio
+// Created          : 06-10-2019
+//
+// Last Modified By : Sergio
+// Last Modified On : 06-09-2019
+// ***********************************************************************
+// <copyright file="RestServiceRegistro.cs" company="SergioDelgadoProyecto">
+//     Copyright (c) . All rights reserved.
+// </copyright>
+// <summary></summary>
+// ***********************************************************************
+using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Net.Http;
@@ -9,6 +22,11 @@ using SergioDelgadoProyecto.ServicioRest;
 
 namespace SergioDelgadoProyecto
 {
+    /// <summary>
+    /// Class RestServiceRegistro.
+    /// Implements the <see cref="SergioDelgadoProyecto.IRestServiceRegistro" />
+    /// </summary>
+    /// <seealso cref="SergioDelgadoProyecto.IRestServiceRegistro" />
     public class RestServiceRegistro : IRestServiceRegistro
     {
         /// <summary>
@@ -16,8 +34,15 @@ namespace SergioDelgadoProyecto
         /// </summary>
         HttpClient _client;
 
+        /// <summary>
+        /// Gets the items.
+        /// </summary>
+        /// <value>The items.</value>
         public List<registros> Items { get; private set; }
 
+        /// <summary>
+        /// Initializes a new instance of the <see cref="RestServiceRegistro"/> class.
+        /// </summary>
         public RestServiceRegistro()
         {
             _client = new HttpClient();
@@ -30,7 +55,7 @@ namespace SergioDelgadoProyecto
         {
             Items = new List<registros>();
 
-            var uri = new Uri(string.Format("", string.Empty));
+            var uri = new Uri(string.Format("http://damnation.ddns.net/sergio/sigmaPUsuarios/registros", string.Empty));
             try
             {
                 var response = await _client.GetAsync(uri);

@@ -1,4 +1,17 @@
-﻿using System;
+﻿// ***********************************************************************
+// Assembly         : SergioDelgadoProyecto
+// Author           : Sergio
+// Created          : 06-10-2019
+//
+// Last Modified By : Sergio
+// Last Modified On : 06-10-2019
+// ***********************************************************************
+// <copyright file="ventanaObjetivos.xaml.cs" company="SergioDelgadoProyecto">
+//     Copyright (c) . All rights reserved.
+// </copyright>
+// <summary></summary>
+// ***********************************************************************
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net.Http;
@@ -10,8 +23,16 @@ using Xamarin.Forms.Xaml;
 
 namespace SergioDelgadoProyecto.formObjetivos
 {
+    /// <summary>
+    /// Class ventanaObjetivos.
+    /// Implements the <see cref="Xamarin.Forms.ContentPage" />
+    /// </summary>
+    /// <seealso cref="Xamarin.Forms.ContentPage" />
     public partial class ventanaObjetivos : ContentPage
     {
+        /// <summary>
+        /// Initializes a new instance of the <see cref="ventanaObjetivos"/> class.
+        /// </summary>
         public ventanaObjetivos()
         {
             InitializeComponent();
@@ -20,6 +41,11 @@ namespace SergioDelgadoProyecto.formObjetivos
             string registro = this.FindByName<Label>("Registro").Text;
 
         }
+        /// <summary>
+        /// Handles the <see cref="E:SaveButtonClicked" /> event.
+        /// </summary>
+        /// <param name="sender">The sender.</param>
+        /// <param name="e">The <see cref="EventArgs"/> instance containing the event data.</param>
         async void OnSaveButtonClicked(object sender, EventArgs e)
         {
             DateTime parsedDate = DateTime.Parse(Fecha.Text);

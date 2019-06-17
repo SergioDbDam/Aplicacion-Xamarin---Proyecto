@@ -4,23 +4,22 @@
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
+
              x:Class="SergioDelgadoProyecto.formCrearObjetivo.crearObjetivos">
     <ContentPage.Content>
         <StackLayout BackgroundColor="#FFFFFF" Margin="0">
           
-        <Label Text="Objetivo" Margin="10,0,0,0" TextColor="#000000" TextDecorations="Strikethrough" FontAttributes="Bold" FontSize="Large" />
-        
-        <Entry Placeholder="" x:Name="objetives" AnchorX="20" />
+        <Label Text="Objetivo" Margin="10,0,0,0" TextColor="#000000"  FontAttributes="Bold" FontSize="Large" />
+
+            <Entry Placeholder="" x:Name="objetives" AnchorX="20" WidthRequest="300" HorizontalOptions="StartAndExpand" />
             <Label Text="Fecha" Margin="10,0,0,0" FontAttributes="Bold" TextColor="#000000" FontSize="Large" />
-            <DatePicker x:Name="Fecha" Format="yyyy-MM-dd" />
+            <DatePicker x:Name="Fecha" Format="yyyy-MM-dd" DateSelected="Fecha_DateSelected" />
+            <Label x:Name="txtFecha" Text="" />
 
             <Label Text="ID" Margin="10,0,0,0" FontAttributes="Bold" FontSize="Large" TextColor="#000000" />
             
             
             <Label x:Name="ID" Text="" />
-
-
-            <Button Text="Crear Objetivo" Clicked="OnSaveButtonClicked" VerticalOptions="CenterAndExpand" HorizontalOptions="Center" BackgroundColor="#0D8BE3" />
 
 
             <ListView  x:Name="MyListView" ItemSelected="OnItemSelected">
@@ -41,7 +40,7 @@
                     </DataTemplate>
                 </ListView.ItemTemplate>
             </ListView>
-
+            <Button Text="Crear Objetivo" Clicked="OnSaveButtonClicked" VerticalOptions="CenterAndExpand" HorizontalOptions="Center" BackgroundColor="#0D8BE3" />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

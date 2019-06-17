@@ -2,10 +2,52 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="SergioDelgadoProyecto.paginaPrincipalDetailA"
-             Title="Detail">
-  <StackLayout Padding="5">
+             Title="Pagina Principal"
+             Icon="newIcon.png"
+             >
+    <StackLayout Padding="5" >
    
-        <Label Text="Bienvenido al Sistema" />
-        <Label x:Name="nombre" Text=""/>
+        <Label Text="Bienvenido al Sistema" FontAttributes="Bold" FontSize="Large" Margin="100,0,0,0" />
+        <Label x:Name="nombre" Text="Manuel.Navarro" FontSize="Medium" Margin="140,0,0,0"/>
+        <Label></Label>
+        <Label></Label>
+        <Label Text="Objetivos No Cumplidos"  Margin="90,0,0,0"  FontAttributes="Bold" FontSize="Large" />
+
+
+        <ListView  x:Name="MyListViewCumplido"  Margin="0,0,0,10" >
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout BackgroundColor="#eee"
+                        Orientation="Vertical">
+                            <StackLayout Orientation="Horizontal">
+
+                                <Label Text="{Binding objetivos}" WidthRequest="300"/>
+                            </StackLayout>
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+        <Label Text="Objetivos Cumplidos" Margin="110,0,0,0" FontAttributes="Bold" FontSize="Large" />
+        <ListView  x:Name="MyListViewNoCumplido" >
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout BackgroundColor="#eee"
+                        Orientation="Vertical">
+                            <StackLayout Orientation="Horizontal">
+
+
+
+                                <Label Text="{Binding objetivos} " WidthRequest="300"
+                                TextColor="#503026" />
+                            </StackLayout>
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
     </StackLayout>
 </ContentPage>

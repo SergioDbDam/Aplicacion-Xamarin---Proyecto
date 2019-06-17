@@ -8,13 +8,21 @@
     <ContentPage.Content>
 
         <StackLayout HorizontalOptions="Center">
-                
+                 <Label></Label>
+                 <Label></Label>
+                 <Label Text="Descripcion del Objetivo" FontAttributes="Bold" FontSize="Large" ></Label>
+            
                 <Label x:Name="objetives" Text="{Binding Path=objetivos}"/>
+                <Label></Label>
+                <Label Text="Fecha Limite" FontSize="Large" FontAttributes="Bold"></Label>
                 <Label x:Name="Fecha" Text="{Binding Path=fecha}"/>
-                <Label x:Name="Registro" Text="{Binding Path=registro_id}"/>
-                <Label x:Name="ide" Text="{Binding Path=id}"/>
+                <Label x:Name="Registro" Text="{Binding Path=registro_id}" TextColor="White"/>
+                <Label x:Name="ide" Text="{Binding Path=id}" TextColor="White"/>
 
-                <Button Text="Completar" Clicked="OnSaveButtonClicked" />
+                
+        <Button Text="Completar" Clicked="OnSaveButtonClicked" />
+            
+            <Image Source="navegador.png" />
             </StackLayout>
 
     </ContentPage.Content>

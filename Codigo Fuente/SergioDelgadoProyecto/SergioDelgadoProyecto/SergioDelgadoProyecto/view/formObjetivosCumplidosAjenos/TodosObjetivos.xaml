@@ -3,10 +3,13 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="SergioDelgadoProyecto.formObjetivosCumplidosAjenos.TodosObjetivos">
     <ContentPage.Content>
-        <StackLayout>
-            
-        <Label Text="Objetivos Cumplidos" />
-            <ListView  x:Name="MyListViewCumplido" >
+        <StackLayout >
+
+
+            <Label Text="Objetivos No Cumplidos" Margin="90,0,0,0"  FontAttributes="Bold" FontSize="Large" />
+               
+               
+                <ListView  x:Name="MyListViewCumplido" ItemSelected="OnItemSelected" Margin="0,0,0,10" >
                 <ListView.ItemTemplate>
                     <DataTemplate>
                         <ViewCell>
@@ -22,8 +25,9 @@
                     </DataTemplate>
                 </ListView.ItemTemplate>
             </ListView>
-            <Label Text="Objetivos No Cumplidos" />
-            <ListView  x:Name="MyListViewNoCumplido" >
+                  
+            <Label Text="Objetivos Cumplidos" Margin="110,0,0,0" FontAttributes="Bold" FontSize="Large" />
+            <ListView  x:Name="MyListViewNoCumplido" ItemSelected="OnItemSelected">
                 <ListView.ItemTemplate>
                     <DataTemplate>
                         <ViewCell>
@@ -41,6 +45,7 @@
                     </DataTemplate>
                 </ListView.ItemTemplate>
             </ListView>
+              
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

@@ -1,4 +1,17 @@
-﻿using Newtonsoft.Json;
+﻿// ***********************************************************************
+// Assembly         : SergioDelgadoProyecto
+// Author           : Sergio
+// Created          : 06-10-2019
+//
+// Last Modified By : Sergio
+// Last Modified On : 06-10-2019
+// ***********************************************************************
+// <copyright file="objetivoCumplido.xaml.cs" company="SergioDelgadoProyecto">
+//     Copyright (c) . All rights reserved.
+// </copyright>
+// <summary></summary>
+// ***********************************************************************
+using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
@@ -12,16 +25,33 @@ using Xamarin.Forms.Xaml;
 
 namespace SergioDelgadoProyecto.formObjetivosCumplidos
 {
+    /// <summary>
+    /// Class objetivoCumplido.
+    /// Implements the <see cref="Xamarin.Forms.ContentPage" />
+    /// </summary>
+    /// <seealso cref="Xamarin.Forms.ContentPage" />
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class objetivoCumplido : ContentPage
     {
-       /// <summary>
-       /// Ventana de objetivos cumplidos
-       /// </summary>
+        /// <summary>
+        /// Ventana de objetivos cumplidos
+        /// </summary>
         public const string urL = "http://damnation.ddns.net/sergio/sigmaPCumplidos/objetivo/";
+        /// <summary>
+        /// The URL
+        /// </summary>
         private string Url = urL + RestClient<UserDetailsCredentials>.idMiembro;
+        /// <summary>
+        /// The client
+        /// </summary>
         private readonly HttpClient client = new HttpClient();
+        /// <summary>
+        /// The post
+        /// </summary>
         private ObservableCollection<Cumplidos> _post;
+        /// <summary>
+        /// Initializes a new instance of the <see cref="objetivoCumplido"/> class.
+        /// </summary>
         public objetivoCumplido()
         {
             InitializeComponent();
@@ -40,8 +70,8 @@ namespace SergioDelgadoProyecto.formObjetivosCumplidos
         /// <summary>
         /// Metodo para seleccionar objetivos
         /// </summary>
-        /// <param name="sender"></param>
-        /// <param name="e"></param>
+        /// <param name="sender">The sender.</param>
+        /// <param name="e">The <see cref="SelectedItemChangedEventArgs"/> instance containing the event data.</param>
         void OnItemSelected(Object sender, SelectedItemChangedEventArgs e)
         {
 

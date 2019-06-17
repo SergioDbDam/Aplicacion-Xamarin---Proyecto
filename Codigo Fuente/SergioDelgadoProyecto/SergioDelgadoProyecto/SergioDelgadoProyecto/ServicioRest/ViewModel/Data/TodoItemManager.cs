@@ -1,21 +1,44 @@
-﻿using System;
+﻿// ***********************************************************************
+// Assembly         : SergioDelgadoProyecto
+// Author           : Sergio
+// Created          : 06-10-2019
+//
+// Last Modified By : Sergio
+// Last Modified On : 06-09-2019
+// ***********************************************************************
+// <copyright file="TodoItemManager.cs" company="SergioDelgadoProyecto">
+//     Copyright (c) . All rights reserved.
+// </copyright>
+// <summary></summary>
+// ***********************************************************************
+using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using SergioDelgadoProyecto.ServicioRest;
 namespace SergioDelgadoProyecto
 {
-	public class TodoItemManager
+    /// <summary>
+    /// Class TodoItemManager.
+    /// </summary>
+    public class TodoItemManager
 	{
-		IRestService restService;
+        /// <summary>
+        /// The rest service
+        /// </summary>
+        IRestService restService;
 
-		public TodoItemManager (IRestService service)
+        /// <summary>
+        /// Initializes a new instance of the <see cref="TodoItemManager"/> class.
+        /// </summary>
+        /// <param name="service">The service.</param>
+        public TodoItemManager (IRestService service)
 		{
 			restService = service;
 		}
         /// <summary>
         /// Muestra Objetivos
         /// </summary>
-        /// <returns></returns>
+        /// <returns>Task&lt;List&lt;Model_Post&gt;&gt;.</returns>
 		public Task<List<Model_Post>> GetTasksAsync ()
 		{
 			return restService.RefreshDataAsync ();	
@@ -23,8 +46,8 @@ namespace SergioDelgadoProyecto
         /// <summary>
         /// Guarda Objetivo
         /// </summary>
-        /// <param name="item"></param>
-        /// <returns></returns>
+        /// <param name="item">The item.</param>
+        /// <returns>Task.</returns>
         public Task SaveTaskAsync(Model_Post item)
 		{
 			return restService.SaveTodoItemAsync (item);
@@ -32,8 +55,8 @@ namespace SergioDelgadoProyecto
         /// <summary>
         /// Borra Objetivo
         /// </summary>
-        /// <param name="item"></param>
-        /// <returns></returns>
+        /// <param name="item">The item.</param>
+        /// <returns>Task.</returns>
 		public Task DeleteTaskAsync (Model_Post item)
 		{
             return restService.DeleteTodoItemAsync(item.id);

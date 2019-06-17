@@ -7,7 +7,9 @@
              x:Class="SergioDelgadoProyecto.formObjetivosCumplidos.objetivoCumplido">
     <ContentPage.Content>
         <StackLayout>
-
+            
+            <Image Source="" />
+            <Label Text="Objetivos Completados"/>
             <ListView x:Name="MyListView" ItemSelected="OnItemSelected">
                 <ListView.ItemTemplate>
                     <DataTemplate>

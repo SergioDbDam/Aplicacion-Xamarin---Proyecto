@@ -2,20 +2,46 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:SergioDelgadoProyecto"
-             x:Class="SergioDelgadoProyecto.MainPage">
+             x:Class="SergioDelgadoProyecto.MainPage"
+             NavigationPage.HasNavigationBar = "false">
 
  
        
 
         <StackLayout  VerticalOptions="Start">
-            
-            <Image Source="C:\Users\Sergio\Desktop\SergioDelgadoProyecto\SergioDelgadoProyecto\SergioDelgadoProyecto\sigmapyme.png" />
-            <Label Text="Usuario" HorizontalOptions="Center"/>
-            <Entry Text="" x:Name="EntryUsername"/>
+
+        
+        <Grid>
+            <Grid.RowDefinitions>
+              <RowDefinition Height="Auto"/>
+              <RowDefinition Height="Auto"/>
+              <RowDefinition Height="Auto"/>
+              <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <StackLayout Grid.Row="1">
+                <Image Source="sigmapyme.png"
+               WidthRequest="{OnPlatform iOS=300,Android=250, UWP=300}" HorizontalOptions="Center"/>
+                
+            </StackLayout>
+            <Label></Label>
+            <StackLayout Grid.Row="1"
+                         Margin="0,80,0,0">
+              <Label Text="Usuario" HorizontalOptions="Center" Margin="-17,0,-22,0"/>
+            </StackLayout>
+            <StackLayout Grid.Row="1"
+                         Margin= "0,120,0,0">
+                <Entry Text="" x:Name="EntryUsername" WidthRequest="300" HorizontalOptions="CenterAndExpand"/>
+            </StackLayout>
+            <StackLayout Grid.Row="1"
+                         Margin= "0,200,0,0">
             <Label Text="contraseña" HorizontalOptions="Center"/>
-            <Entry Text="" x:Name="EntryPassword" IsPassword="True"/>
-            
-        <Button Text="Login" TextColor="White" BackgroundColor="#22A7F0" x:Name="ButtonLogin" Clicked="ButtonLogin_Clicked"/>
+              </StackLayout>
+            <StackLayout Grid.Row="1"
+                         Margin= "0,240,0,0">
+                <Entry Text="" x:Name="EntryPassword" IsPassword="True" HorizontalOptions="CenterAndExpand" WidthRequest="300"/>
+            </StackLayout>
+          </Grid>
+        <Button Text="Entrar" TextColor="White" BackgroundColor="#22A7F0" x:Name="ButtonLogin" Clicked="ButtonLogin_Clicked" Margin="-40,0,-22,0" VerticalOptions="Center" Visual="Material" AnchorX="10" HorizontalOptions="Center"/>
        </StackLayout>
 
 </ContentPage>

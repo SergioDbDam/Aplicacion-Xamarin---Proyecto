@@ -5,19 +5,21 @@
     <ContentPage.Content>
         <StackLayout>
             <StackLayout>
-         
-             <Label Text="Introduce Importe" />
-                <Entry x:Name="envioImporte" Placeholder="Euros" />
-                <Button Text="Seleccione la Imagen" x:Name="fileButton" Clicked="File"/>
-                <Label Text="Imagen : " x:Name="fileLabel"/>
-                <Button Text="Enviar" Clicked="SendEmailAsync" BackgroundColor="Crimson" TextColor="White" />
-                
-                
+                <Label></Label>
+                <Label></Label>
+             <Label Text="Introduce Importe :" Margin="10,0,0,0" />
+                <Entry x:Name="envioImporte" Placeholder="Euros" WidthRequest="300" HorizontalOptions="StartAndExpand"  />
 
-                   
-             
-                
-                
+                <Button Text="Enviar" Clicked="SendEmailAsync" BackgroundColor="Crimson" TextColor="White" WidthRequest="300" HorizontalOptions="CenterAndExpand" />
+                <Button Text="Seleccione la Imagen" x:Name="fileButton" Clicked="File" WidthRequest="300" HorizontalOptions="CenterAndExpand"/>
+                <Label Text="Imagen : " Margin="10,0,0,0" x:Name="fileLabel"/>
+                <Button Text="Enviar Imagen" Clicked="enviarCorreo" BackgroundColor="Crimson" TextColor="White" WidthRequest="300" HorizontalOptions="CenterAndExpand"/>
+                <Label></Label>
+                <Image Source="gasolinera.png" />
+
+
+
+
             </StackLayout>
         </StackLayout>
     </ContentPage.Content>

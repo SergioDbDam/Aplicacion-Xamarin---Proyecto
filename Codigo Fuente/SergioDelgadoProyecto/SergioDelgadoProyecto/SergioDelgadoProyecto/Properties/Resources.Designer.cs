@@ -39,7 +39,7 @@ namespace SergioDelgadoProyecto.Properties {
         private static global::System.Globalization.CultureInfo resourceCulture;
 
         /// <summary>
-        /// Initializes a new instance of the <see cref="Resources"/> class.
+        /// Initializes a new instance of the <see cref="Resources" /> class.
         /// </summary>
         [global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode")]
         internal Resources() {

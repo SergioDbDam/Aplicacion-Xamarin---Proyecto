@@ -1,4 +1,17 @@
-﻿using System;
+﻿// ***********************************************************************
+// Assembly         : SergioDelgadoProyecto
+// Author           : Sergio
+// Created          : 06-10-2019
+//
+// Last Modified By : Sergio
+// Last Modified On : 06-10-2019
+// ***********************************************************************
+// <copyright file="paginaPrincipal.xaml.cs" company="SergioDelgadoProyecto">
+//     Copyright (c) . All rights reserved.
+// </copyright>
+// <summary></summary>
+// ***********************************************************************
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -9,6 +22,11 @@ using Xamarin.Forms.Xaml;
 
 namespace SergioDelgadoProyecto
 {
+    /// <summary>
+    /// Class paginaPrincipal.
+    /// Implements the <see cref="Xamarin.Forms.MasterDetailPage" />
+    /// </summary>
+    /// <seealso cref="Xamarin.Forms.MasterDetailPage" />
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class paginaPrincipal : MasterDetailPage
     {
@@ -21,6 +39,11 @@ namespace SergioDelgadoProyecto
             MasterPage.ListView.ItemSelected += ListView_ItemSelected;
         }
 
+        /// <summary>
+        /// Handles the ItemSelected event of the ListView control.
+        /// </summary>
+        /// <param name="sender">The source of the event.</param>
+        /// <param name="e">The <see cref="SelectedItemChangedEventArgs"/> instance containing the event data.</param>
         private void ListView_ItemSelected(object sender, SelectedItemChangedEventArgs e)
         {
             var item = e.SelectedItem as paginaPrincipalMenuItem;

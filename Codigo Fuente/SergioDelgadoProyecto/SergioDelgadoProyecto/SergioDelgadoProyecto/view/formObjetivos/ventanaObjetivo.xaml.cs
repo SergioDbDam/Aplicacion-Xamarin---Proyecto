@@ -1,4 +1,17 @@
-﻿using System;
+﻿// ***********************************************************************
+// Assembly         : SergioDelgadoProyecto
+// Author           : Sergio
+// Created          : 06-10-2019
+//
+// Last Modified By : Sergio
+// Last Modified On : 06-10-2019
+// ***********************************************************************
+// <copyright file="ventanaObjetivo.xaml.cs" company="SergioDelgadoProyecto">
+//     Copyright (c) . All rights reserved.
+// </copyright>
+// <summary></summary>
+// ***********************************************************************
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net.Http;
@@ -11,6 +24,11 @@ using Xamarin.Forms.Xaml;
 
 namespace SergioDelgadoProyecto.formObjetivos
 {
+    /// <summary>
+    /// Class ventanaObjetivo.
+    /// Implements the <see cref="Xamarin.Forms.ContentPage" />
+    /// </summary>
+    /// <seealso cref="Xamarin.Forms.ContentPage" />
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class ventanaObjetivo : ContentPage
     {
@@ -26,8 +44,8 @@ namespace SergioDelgadoProyecto.formObjetivos
         /// <summary>
         /// Metodo para guardar los objetivos y pasarlos a cumplidos
         /// </summary>
-        /// <param name="sender"></param>
-        /// <param name="e"></param>
+        /// <param name="sender">The sender.</param>
+        /// <param name="e">The <see cref="EventArgs"/> instance containing the event data.</param>
         async void OnSaveButtonClicked(object sender, EventArgs e)
         {
 
@@ -43,6 +61,7 @@ namespace SergioDelgadoProyecto.formObjetivos
             var client = new HttpClient();
             var req = new HttpRequestMessage(HttpMethod.Put, "http://damnation.ddns.net/sergio/proyectobdSigma/objetivo/"+ide.Text) { Content = new FormUrlEncodedContent(dict) };
             var res = await client.SendAsync(req);
+            await DisplayAlert("El objetivo ha sido completado", "Objetivo enviado a completados", "OK");
 
         }
     }

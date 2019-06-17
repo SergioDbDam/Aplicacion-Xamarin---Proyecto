@@ -16,12 +16,18 @@
     <DocumentationFile>C:\Users\Sergio\Desktop\SergioDelgadoProyecto\SergioDelgadoProyecto\SergioDelgadoProyecto\SergioDelgadoProyecto.xml</DocumentationFile>
   </PropertyGroup>
 
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <DocumentationFile>C:\Users\Sergio\Desktop\SergioDelgadoProyecto\SergioDelgadoProyecto\SergioDelgadoProyecto\SergioDelgadoProyecto.xml</DocumentationFile>
+  </PropertyGroup>
+
   <ItemGroup>
     <None Remove="sigmapyme.png" />
   </ItemGroup>
 
   <ItemGroup>
-    <EmbeddedResource Include="sigmapyme.png" />
+    <Content Include="sigmapyme.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
 
   <ItemGroup>
@@ -60,6 +66,9 @@
     </EmbeddedResource>
     <EmbeddedResource Update="view\formGasolinera\Gasolinera.xaml">
       <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="view\formObjetivosCumplidosAjenos\DetallesAjenos.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
     <EmbeddedResource Update="view\formObjetivosCumplidosAjenos\OcAjenos.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>

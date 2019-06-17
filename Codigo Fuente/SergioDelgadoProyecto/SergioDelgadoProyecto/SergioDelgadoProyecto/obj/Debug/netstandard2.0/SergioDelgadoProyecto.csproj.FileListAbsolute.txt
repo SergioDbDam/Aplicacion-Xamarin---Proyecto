@@ -80,3 +80,4 @@ C:\Users\Sergio\Desktop\SergioDelgadoProyecto\SergioDelgadoProyecto\SergioDelgad
 C:\Users\Sergio\Desktop\SergioDelgadoProyecto\SergioDelgadoProyecto\SergioDelgadoProyecto\obj\Debug\netstandard2.0\SergioDelgadoProyecto.Properties.Resources.resources
 C:\Users\Sergio\Desktop\SergioDelgadoProyecto\SergioDelgadoProyecto\SergioDelgadoProyecto\obj\Debug\netstandard2.0\SergioDelgadoProyecto.csproj.GenerateResource.cache
 C:\Users\Sergio\Desktop\SergioDelgadoProyecto\SergioDelgadoProyecto\SergioDelgadoProyecto\bin\Debug\netstandard2.0\SergioDelgadoProyecto.xml
+C:\Users\Sergio\Desktop\SergioDelgadoProyecto\SergioDelgadoProyecto\SergioDelgadoProyecto\obj\Debug\netstandard2.0\view\formObjetivosCumplidosAjenos\DetallesAjenos.xaml.g.cs

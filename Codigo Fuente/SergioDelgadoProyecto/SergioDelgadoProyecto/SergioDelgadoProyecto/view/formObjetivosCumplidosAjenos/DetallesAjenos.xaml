@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="SergioDelgadoProyecto.view.formObjetivosCumplidosAjenos.DetallesAjenos">
+    <ContentPage.Content>
+        <StackLayout>
+            <Entry x:Name="objetives" Text="{Binding Path=objetivos}"/>
+            <DatePicker x:Name="Fecha" Format="yyyy-MM-dd" DateSelected="Fecha_DateSelected"/>
+            <Label Text="Fecha Actual :" FontAttributes="Bold" FontSize="Large"></Label>
+            <Label x:Name="txtFecha"  />
+            <Label x:Name="Registro" Text="{Binding Path=registro_id}" TextColor="White"/>
+            <Label x:Name="ide" Text="{Binding Path=id}" TextColor="White"/>
+
+            <Button Text="Modificar" Clicked="OnSaveButtonClicked" />
+            <Button Text="Borrar" Clicked="OnDeletedButtonClicked"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
