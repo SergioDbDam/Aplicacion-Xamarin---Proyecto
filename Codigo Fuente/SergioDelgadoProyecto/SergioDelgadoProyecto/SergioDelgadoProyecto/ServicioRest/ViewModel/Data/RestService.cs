@@ -80,7 +80,7 @@ namespace SergioDelgadoProyecto
         /// <returns>Tarea.</returns>
         public async Task SaveTodoItemAsync(Model_Post item)
         {
-            var uri = new Uri(string.Format("http://192.168.1.21/proyectobdSigma/objetivo", string.Empty));
+            var uri = new Uri(string.Format("http://192.168.1.21/proyectobdSigma/objetivo/"+RestClient<UserDetailsCredentials>.idMiembro, string.Empty));
             
             try
             {
